@@ -1,0 +1,962 @@
+[
+  {
+    "asset" : "alphachannel",
+    "engine" : "sdwebimage",
+    "file" : "ours\/alphachannel-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      0.64908299999999997,
+      0.60020799999999996,
+      0.42883300000000002
+    ],
+    "size" : 64,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "engine" : "sdwebimage",
+    "file" : "ours\/alphachannel-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.7764580000000001,
+      1.4023749999999999,
+      1.4401660000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "engine" : "sdwebimage",
+    "file" : "ours\/alphachannel-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.850625,
+      1.7370829999999999,
+      1.625
+    ],
+    "size" : 256,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "engine" : "sdwebimage",
+    "file" : "ours\/alphachannel-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      4.9341249999999999,
+      4.9472079999999998,
+      4.8003330000000002
+    ],
+    "size" : 256,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "engine" : "sdwebimage",
+    "file" : "ours\/alphachannel-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      18.814665999999999,
+      18.638750000000002,
+      18.220624999999998
+    ],
+    "size" : 1024,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "engine" : "sdwebimage",
+    "file" : "ours\/alphachannel-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      53.023166000000003,
+      53.317374999999998,
+      54.509374999999999
+    ],
+    "size" : 1024,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "clippath",
+    "engine" : "sdwebimage",
+    "file" : "ours\/clippath-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      3.013916,
+      3.0891670000000002,
+      2.6939579999999999
+    ],
+    "size" : 64,
+    "sourceBytes" : 2398,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "clippath",
+    "engine" : "sdwebimage",
+    "file" : "ours\/clippath-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      3.3817910000000002,
+      3.2840829999999999,
+      3.2002079999999999
+    ],
+    "size" : 64,
+    "sourceBytes" : 2398,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "clippath",
+    "engine" : "sdwebimage",
+    "file" : "ours\/clippath-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      3.740834,
+      3.668542,
+      7.0949580000000001
+    ],
+    "size" : 256,
+    "sourceBytes" : 2398,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "clippath",
+    "engine" : "sdwebimage",
+    "file" : "ours\/clippath-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      5.8898330000000003,
+      5.9868750000000004,
+      6.1011660000000001
+    ],
+    "size" : 256,
+    "sourceBytes" : 2398,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "clippath",
+    "engine" : "sdwebimage",
+    "file" : "ours\/clippath-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      18.990290999999999,
+      18.422249999999998,
+      18.916333000000002
+    ],
+    "size" : 1024,
+    "sourceBytes" : 2398,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "clippath",
+    "engine" : "sdwebimage",
+    "file" : "ours\/clippath-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      47.437666,
+      47.353333999999997,
+      47.637875000000001
+    ],
+    "size" : 1024,
+    "sourceBytes" : 2398,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "gaussian1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/gaussian1-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      61.645833000000003,
+      57.696790999999997,
+      53.640749999999997
+    ],
+    "size" : 64,
+    "sourceBytes" : 11098,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "gaussian1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/gaussian1-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      58.084499999999998,
+      56.185124999999999,
+      56.389749999999999
+    ],
+    "size" : 64,
+    "sourceBytes" : 11098,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "gaussian1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/gaussian1-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      59.967084,
+      61.900125000000003,
+      60.649540999999999
+    ],
+    "size" : 256,
+    "sourceBytes" : 11098,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "gaussian1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/gaussian1-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      66.286917000000003,
+      64.926249999999996,
+      63.97175
+    ],
+    "size" : 256,
+    "sourceBytes" : 11098,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "gaussian1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/gaussian1-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      92.527833000000001,
+      92.315791000000004,
+      92.775041999999999
+    ],
+    "size" : 1024,
+    "sourceBytes" : 11098,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "gaussian1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/gaussian1-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      114.611458,
+      119.86533300000001,
+      126.256209
+    ],
+    "size" : 1024,
+    "sourceBytes" : 11098,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "engine" : "sdwebimage",
+    "file" : "ours\/github-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      0.42816700000000002,
+      0.40512500000000001,
+      0.35583300000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "engine" : "sdwebimage",
+    "file" : "ours\/github-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.1438330000000001,
+      1.3875,
+      1.1070420000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "engine" : "sdwebimage",
+    "file" : "ours\/github-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.6485829999999999,
+      2.4793750000000001,
+      1.6236250000000001
+    ],
+    "size" : 256,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "engine" : "sdwebimage",
+    "file" : "ours\/github-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      3.8420420000000002,
+      3.8311250000000001,
+      3.8639579999999998
+    ],
+    "size" : 256,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "engine" : "sdwebimage",
+    "file" : "ours\/github-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      15.557084,
+      15.184832999999999,
+      15.475083
+    ],
+    "size" : 1024,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "engine" : "sdwebimage",
+    "file" : "ours\/github-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      42.195500000000003,
+      42.519916000000002,
+      42.638167000000003
+    ],
+    "size" : 1024,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "lineargradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/lineargradient1-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      0.61737500000000001,
+      0.55633299999999997,
+      0.66833299999999995
+    ],
+    "size" : 64,
+    "sourceBytes" : 3129,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "lineargradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/lineargradient1-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.742583,
+      1.6416660000000001,
+      1.7482500000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 3129,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "lineargradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/lineargradient1-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      2.0037500000000001,
+      2.1126670000000001,
+      2.0049579999999998
+    ],
+    "size" : 256,
+    "sourceBytes" : 3129,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "lineargradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/lineargradient1-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      5.1568329999999998,
+      5.0284170000000001,
+      4.9364999999999997
+    ],
+    "size" : 256,
+    "sourceBytes" : 3129,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "lineargradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/lineargradient1-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      23.23075,
+      23.561333000000001,
+      24.154416999999999
+    ],
+    "size" : 1024,
+    "sourceBytes" : 3129,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "lineargradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/lineargradient1-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      54.866542000000003,
+      55.640540999999999,
+      52.127167
+    ],
+    "size" : 1024,
+    "sourceBytes" : 3129,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "engine" : "sdwebimage",
+    "file" : "ours\/masking-path-04-b-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      0.80800000000000005,
+      0.66274999999999995,
+      0.66874999999999996
+    ],
+    "size" : 64,
+    "sourceBytes" : 4787,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "engine" : "sdwebimage",
+    "file" : "ours\/masking-path-04-b-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.7803340000000001,
+      1.6912910000000001,
+      1.6074999999999999
+    ],
+    "size" : 64,
+    "sourceBytes" : 4787,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "engine" : "sdwebimage",
+    "file" : "ours\/masking-path-04-b-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.6950419999999999,
+      1.631459,
+      1.6125419999999999
+    ],
+    "size" : 256,
+    "sourceBytes" : 4787,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "engine" : "sdwebimage",
+    "file" : "ours\/masking-path-04-b-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      5.4975829999999997,
+      4.1118329999999998,
+      3.9613330000000002
+    ],
+    "size" : 256,
+    "sourceBytes" : 4787,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "engine" : "sdwebimage",
+    "file" : "ours\/masking-path-04-b-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      14.713042,
+      14.672666,
+      14.446875
+    ],
+    "size" : 1024,
+    "sourceBytes" : 4787,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "engine" : "sdwebimage",
+    "file" : "ours\/masking-path-04-b-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      37.779958000000001,
+      35.542292000000003,
+      35.418458000000001
+    ],
+    "size" : 1024,
+    "sourceBytes" : 4787,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "radialgradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/radialgradient1-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      0.54416699999999996,
+      0.51366699999999998,
+      0.66366599999999998
+    ],
+    "size" : 64,
+    "sourceBytes" : 3321,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "radialgradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/radialgradient1-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.615,
+      1.6917089999999999,
+      3.2626659999999998
+    ],
+    "size" : 64,
+    "sourceBytes" : 3321,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "radialgradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/radialgradient1-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.4267909999999999,
+      1.4924580000000001,
+      1.3659589999999999
+    ],
+    "size" : 256,
+    "sourceBytes" : 3321,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "radialgradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/radialgradient1-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      3.4296250000000001,
+      3.3442919999999998,
+      3.2854589999999999
+    ],
+    "size" : 256,
+    "sourceBytes" : 3321,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "radialgradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/radialgradient1-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      13.871416999999999,
+      13.979291999999999,
+      13.911291
+    ],
+    "size" : 1024,
+    "sourceBytes" : 3321,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "radialgradient1",
+    "engine" : "sdwebimage",
+    "file" : "ours\/radialgradient1-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      35.041333000000002,
+      35.333917,
+      36.541459000000003
+    ],
+    "size" : 1024,
+    "sourceBytes" : 3321,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "tiger",
+    "engine" : "sdwebimage",
+    "file" : "ours\/tiger-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      6.0012090000000002,
+      6.2868329999999997,
+      6.0432499999999996
+    ],
+    "size" : 64,
+    "sourceBytes" : 96719,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "tiger",
+    "engine" : "sdwebimage",
+    "file" : "ours\/tiger-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      8.4679579999999994,
+      7.6796249999999997,
+      7.4641250000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 96719,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "tiger",
+    "engine" : "sdwebimage",
+    "file" : "ours\/tiger-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      8.7117920000000009,
+      8.8412919999999993,
+      8.7004160000000006
+    ],
+    "size" : 256,
+    "sourceBytes" : 96719,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "tiger",
+    "engine" : "sdwebimage",
+    "file" : "ours\/tiger-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      12.489083000000001,
+      12.473750000000001,
+      12.383333
+    ],
+    "size" : 256,
+    "sourceBytes" : 96719,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "tiger",
+    "engine" : "sdwebimage",
+    "file" : "ours\/tiger-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      33.622166999999997,
+      33.413249999999998,
+      33.322167
+    ],
+    "size" : 1024,
+    "sourceBytes" : 96719,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "tiger",
+    "engine" : "sdwebimage",
+    "file" : "ours\/tiger-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      58.713791000000001,
+      60.157666999999996,
+      59.907291999999998
+    ],
+    "size" : 1024,
+    "sourceBytes" : 96719,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "engine" : "sdwebimage",
+    "file" : "ours\/w3c-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      0.46266699999999999,
+      0.42149999999999999,
+      0.38620900000000002
+    ],
+    "size" : 64,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "engine" : "sdwebimage",
+    "file" : "ours\/w3c-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.68275,
+      1.625834,
+      1.4732909999999999
+    ],
+    "size" : 64,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "engine" : "sdwebimage",
+    "file" : "ours\/w3c-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.5373749999999999,
+      1.6387910000000001,
+      1.5442499999999999
+    ],
+    "size" : 256,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "engine" : "sdwebimage",
+    "file" : "ours\/w3c-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      3.4277920000000002,
+      3.6014170000000001,
+      3.3867080000000001
+    ],
+    "size" : 256,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "engine" : "sdwebimage",
+    "file" : "ours\/w3c-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      15.911834000000001,
+      15.830041,
+      15.6935
+    ],
+    "size" : 1024,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "engine" : "sdwebimage",
+    "file" : "ours\/w3c-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      44.702416999999997,
+      44.621625000000002,
+      44.622917000000001
+    ],
+    "size" : 1024,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "engine" : "sdwebimage",
+    "file" : "ours\/wikimedia-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      0.47229199999999999,
+      0.60258299999999998,
+      0.50175000000000003
+    ],
+    "size" : 64,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "engine" : "sdwebimage",
+    "file" : "ours\/wikimedia-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.9214580000000001,
+      1.6987080000000001,
+      1.757334
+    ],
+    "size" : 64,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "engine" : "sdwebimage",
+    "file" : "ours\/wikimedia-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      1.5562910000000001,
+      1.560792,
+      1.505625
+    ],
+    "size" : 256,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "engine" : "sdwebimage",
+    "file" : "ours\/wikimedia-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      4.5571659999999996,
+      6.3880420000000004,
+      4.4263329999999996
+    ],
+    "size" : 256,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "engine" : "sdwebimage",
+    "file" : "ours\/wikimedia-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      16.322500000000002,
+      15.868499999999999,
+      16.071666
+    ],
+    "size" : 1024,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "engine" : "sdwebimage",
+    "file" : "ours\/wikimedia-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0,
+    "parsingIncludedInRender" : true,
+    "renderMilliseconds" : [
+      48.871749999999999,
+      46.858417000000003,
+      47.730041
+    ],
+    "size" : 1024,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  }
+]

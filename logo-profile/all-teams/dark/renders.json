@@ -1,0 +1,258 @@
+[
+  {
+    "code" : "ANA",
+    "elapsedMS" : 125.508375,
+    "file" : "png\/ANA-1200x900.png",
+    "name" : "Anaheim Ducks",
+    "pngBytes" : 206740,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/ANA_dark.svg"
+  },
+  {
+    "code" : "BOS",
+    "elapsedMS" : 194.497459,
+    "file" : "png\/BOS-1200x900.png",
+    "name" : "Boston Bruins",
+    "pngBytes" : 98271,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/BOS_dark.svg?season=20252026"
+  },
+  {
+    "code" : "BUF",
+    "elapsedMS" : 132.264792,
+    "file" : "png\/BUF-1200x900.png",
+    "name" : "Buffalo Sabres",
+    "pngBytes" : 191977,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/BUF_dark.svg"
+  },
+  {
+    "code" : "CGY",
+    "elapsedMS" : 162.025083,
+    "file" : "png\/CGY-1200x900.png",
+    "name" : "Calgary Flames",
+    "pngBytes" : 160292,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/CGY_dark.svg"
+  },
+  {
+    "code" : "CAR",
+    "elapsedMS" : 173.593166,
+    "file" : "png\/CAR-1200x900.png",
+    "name" : "Carolina Hurricanes",
+    "pngBytes" : 169764,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/CAR_dark.svg"
+  },
+  {
+    "code" : "CHI",
+    "elapsedMS" : 222.378792,
+    "file" : "png\/CHI-1200x900.png",
+    "name" : "Chicago Blackhawks",
+    "pngBytes" : 335939,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/CHI_dark.svg?season=20252026"
+  },
+  {
+    "code" : "COL",
+    "elapsedMS" : 261.889708,
+    "file" : "png\/COL-1200x900.png",
+    "name" : "Colorado Avalanche",
+    "pngBytes" : 249665,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/COL_dark.svg"
+  },
+  {
+    "code" : "CBJ",
+    "elapsedMS" : 235.152458,
+    "file" : "png\/CBJ-1200x900.png",
+    "name" : "Columbus Blue Jackets",
+    "pngBytes" : 252691,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/CBJ_dark.svg"
+  },
+  {
+    "code" : "DAL",
+    "elapsedMS" : 268.917208,
+    "file" : "png\/DAL-1200x900.png",
+    "name" : "Dallas Stars",
+    "pngBytes" : 152747,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/DAL_dark.svg"
+  },
+  {
+    "code" : "DET",
+    "elapsedMS" : 307.966375,
+    "file" : "png\/DET-1200x900.png",
+    "name" : "Detroit Red Wings",
+    "pngBytes" : 280087,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/DET_dark.svg?season=20252026"
+  },
+  {
+    "code" : "EDM",
+    "elapsedMS" : 311.912167,
+    "file" : "png\/EDM-1200x900.png",
+    "name" : "Edmonton Oilers",
+    "pngBytes" : 161722,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/EDM_dark.svg"
+  },
+  {
+    "code" : "FLA",
+    "elapsedMS" : 361.747333,
+    "file" : "png\/FLA-1200x900.png",
+    "name" : "Florida Panthers",
+    "pngBytes" : 201320,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/FLA_dark.svg"
+  },
+  {
+    "code" : "LAK",
+    "elapsedMS" : 409.094792,
+    "file" : "png\/LAK-1200x900.png",
+    "name" : "Los Angeles Kings",
+    "pngBytes" : 206364,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/LAK_dark.svg"
+  },
+  {
+    "code" : "MIN",
+    "elapsedMS" : 345.756208,
+    "file" : "png\/MIN-1200x900.png",
+    "name" : "Minnesota Wild",
+    "pngBytes" : 155988,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/MIN_dark.svg"
+  },
+  {
+    "code" : "MTL",
+    "elapsedMS" : 379.976791,
+    "file" : "png\/MTL-1200x900.png",
+    "name" : "Montréal Canadiens",
+    "pngBytes" : 174680,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/MTL_dark.svg"
+  },
+  {
+    "code" : "NSH",
+    "elapsedMS" : 458.389708,
+    "file" : "png\/NSH-1200x900.png",
+    "name" : "Nashville Predators",
+    "pngBytes" : 198457,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/NSH_dark.svg"
+  },
+  {
+    "code" : "NJD",
+    "elapsedMS" : 415.522958,
+    "file" : "png\/NJD-1200x900.png",
+    "name" : "New Jersey Devils",
+    "pngBytes" : 152621,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/NJD_dark.svg"
+  },
+  {
+    "code" : "NYI",
+    "elapsedMS" : 481.064041,
+    "file" : "png\/NYI-1200x900.png",
+    "name" : "New York Islanders",
+    "pngBytes" : 189513,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/NYI_dark.svg"
+  },
+  {
+    "code" : "NYR",
+    "elapsedMS" : 443.08425,
+    "file" : "png\/NYR-1200x900.png",
+    "name" : "New York Rangers",
+    "pngBytes" : 159184,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/NYR_dark.svg"
+  },
+  {
+    "code" : "OTT",
+    "elapsedMS" : 505.037708,
+    "file" : "png\/OTT-1200x900.png",
+    "name" : "Ottawa Senators",
+    "pngBytes" : 271079,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/OTT_dark.svg"
+  },
+  {
+    "code" : "PHI",
+    "elapsedMS" : 534.874791,
+    "file" : "png\/PHI-1200x900.png",
+    "name" : "Philadelphia Flyers",
+    "pngBytes" : 86009,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/PHI_dark.svg"
+  },
+  {
+    "code" : "PIT",
+    "elapsedMS" : 554.601833,
+    "file" : "png\/PIT-1200x900.png",
+    "name" : "Pittsburgh Penguins",
+    "pngBytes" : 175276,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/PIT_dark.svg"
+  },
+  {
+    "code" : "SJS",
+    "elapsedMS" : 519.140167,
+    "file" : "png\/SJS-1200x900.png",
+    "name" : "San Jose Sharks",
+    "pngBytes" : 186093,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/SJS_dark.svg"
+  },
+  {
+    "code" : "SEA",
+    "elapsedMS" : 568.403958,
+    "file" : "png\/SEA-1200x900.png",
+    "name" : "Seattle Kraken",
+    "pngBytes" : 157318,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/SEA_dark.svg"
+  },
+  {
+    "code" : "STL",
+    "elapsedMS" : 585.817208,
+    "file" : "png\/STL-1200x900.png",
+    "name" : "St. Louis Blues",
+    "pngBytes" : 132085,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/STL_dark.svg?season=20252026"
+  },
+  {
+    "code" : "TBL",
+    "elapsedMS" : 708.064792,
+    "file" : "png\/TBL-1200x900.png",
+    "name" : "Tampa Bay Lightning",
+    "pngBytes" : 88133,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/TBL_dark.svg"
+  },
+  {
+    "code" : "TOR",
+    "elapsedMS" : 623.429417,
+    "file" : "png\/TOR-1200x900.png",
+    "name" : "Toronto Maple Leafs",
+    "pngBytes" : 158555,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/TOR_dark.svg"
+  },
+  {
+    "code" : "UTA",
+    "elapsedMS" : 604.599334,
+    "file" : "png\/UTA-1200x900.png",
+    "name" : "Utah Mammoth",
+    "pngBytes" : 209282,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/UTA_dark.svg?season=20252026"
+  },
+  {
+    "code" : "VAN",
+    "elapsedMS" : 643.689667,
+    "file" : "png\/VAN-1200x900.png",
+    "name" : "Vancouver Canucks",
+    "pngBytes" : 245698,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/VAN_dark.svg"
+  },
+  {
+    "code" : "VGK",
+    "elapsedMS" : 655.832417,
+    "file" : "png\/VGK-1200x900.png",
+    "name" : "Vegas Golden Knights",
+    "pngBytes" : 124605,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/VGK_dark.svg"
+  },
+  {
+    "code" : "WSH",
+    "elapsedMS" : 679.529125,
+    "file" : "png\/WSH-1200x900.png",
+    "name" : "Washington Capitals",
+    "pngBytes" : 210478,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/WSH_secondary_dark.svg"
+  },
+  {
+    "code" : "WPG",
+    "elapsedMS" : 690.900625,
+    "file" : "png\/WPG-1200x900.png",
+    "name" : "Winnipeg Jets",
+    "pngBytes" : 182374,
+    "source" : "https:\/\/assets.nhle.com\/logos\/nhl\/svg\/WPG_dark.svg"
+  }
+]

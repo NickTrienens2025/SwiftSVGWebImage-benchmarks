@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 28721152,
+  "asset" : "NYR_light",
+  "baselinePeakRSSBytes" : 17203200,
+  "baselineRSSBytes" : 17203200,
+  "date" : "2026-09-26T19:36:18Z",
+  "decodedBitmapBytes" : 98304,
+  "decodedHeight" : 128,
+  "decodedWidth" : 192,
+  "encodedCacheBytes" : 19454,
+  "encodedPNGBytes" : 14331,
+  "encodedSourceBytes" : 5123,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 12435456,
+  "peakRSSBytes" : 29638656,
+  "points" : 64,
+  "residentDeltaBytes" : 11517952,
+  "scale" : 3,
+  "svgIntermediateRGBABytes" : 393216,
+  "targetHeight" : 128,
+  "targetWidth" : 192
+}

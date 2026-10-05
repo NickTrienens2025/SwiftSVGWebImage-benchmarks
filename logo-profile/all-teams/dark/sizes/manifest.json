@@ -1,0 +1,5762 @@
+[
+  {
+    "code" : "ANA",
+    "file" : "sizes\/20pt\/1x\/ANA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/20pt\/1x\/BOS.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/20pt\/1x\/BUF.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/20pt\/1x\/CGY.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/20pt\/1x\/CAR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/20pt\/1x\/CHI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/20pt\/1x\/COL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/20pt\/1x\/CBJ.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/20pt\/1x\/DAL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/20pt\/1x\/DET.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/20pt\/1x\/EDM.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/20pt\/1x\/FLA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/20pt\/1x\/LAK.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/20pt\/1x\/MIN.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/20pt\/1x\/MTL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/20pt\/1x\/NSH.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/20pt\/1x\/NJD.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/20pt\/1x\/NYI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New York Islanders",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/20pt\/1x\/NYR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New York Rangers",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/20pt\/1x\/OTT.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/20pt\/1x\/PHI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/20pt\/1x\/PIT.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/20pt\/1x\/SJS.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/20pt\/1x\/SEA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/20pt\/1x\/STL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/20pt\/1x\/TBL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/20pt\/1x\/TOR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/20pt\/1x\/UTA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/20pt\/1x\/VAN.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/20pt\/1x\/VGK.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/20pt\/1x\/WSH.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/20pt\/1x\/WPG.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 14,
+    "pixelWidth" : 20,
+    "scale" : 1,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/20pt\/2x\/ANA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/20pt\/2x\/BOS.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/20pt\/2x\/BUF.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/20pt\/2x\/CGY.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/20pt\/2x\/CAR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/20pt\/2x\/CHI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/20pt\/2x\/COL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/20pt\/2x\/CBJ.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/20pt\/2x\/DAL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/20pt\/2x\/DET.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/20pt\/2x\/EDM.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/20pt\/2x\/FLA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/20pt\/2x\/LAK.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/20pt\/2x\/MIN.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/20pt\/2x\/MTL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/20pt\/2x\/NSH.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/20pt\/2x\/NJD.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/20pt\/2x\/NYI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New York Islanders",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/20pt\/2x\/NYR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New York Rangers",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/20pt\/2x\/OTT.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/20pt\/2x\/PHI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/20pt\/2x\/PIT.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/20pt\/2x\/SJS.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/20pt\/2x\/SEA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/20pt\/2x\/STL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/20pt\/2x\/TBL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/20pt\/2x\/TOR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/20pt\/2x\/UTA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/20pt\/2x\/VAN.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/20pt\/2x\/VGK.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/20pt\/2x\/WSH.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/20pt\/2x\/WPG.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 27,
+    "pixelWidth" : 40,
+    "scale" : 2,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/20pt\/3x\/ANA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/20pt\/3x\/BOS.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/20pt\/3x\/BUF.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/20pt\/3x\/CGY.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/20pt\/3x\/CAR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/20pt\/3x\/CHI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/20pt\/3x\/COL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/20pt\/3x\/CBJ.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/20pt\/3x\/DAL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/20pt\/3x\/DET.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/20pt\/3x\/EDM.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/20pt\/3x\/FLA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/20pt\/3x\/LAK.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/20pt\/3x\/MIN.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/20pt\/3x\/MTL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/20pt\/3x\/NSH.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/20pt\/3x\/NJD.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/20pt\/3x\/NYI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New York Islanders",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/20pt\/3x\/NYR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "New York Rangers",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/20pt\/3x\/OTT.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/20pt\/3x\/PHI.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/20pt\/3x\/PIT.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/20pt\/3x\/SJS.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/20pt\/3x\/SEA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/20pt\/3x\/STL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/20pt\/3x\/TBL.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/20pt\/3x\/TOR.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/20pt\/3x\/UTA.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/20pt\/3x\/VAN.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/20pt\/3x\/VGK.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/20pt\/3x\/WSH.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/20pt\/3x\/WPG.png",
+    "heightPoints" : 13.333333333333334,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 40,
+    "pixelWidth" : 60,
+    "scale" : 3,
+    "widthPoints" : 20
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/24pt\/1x\/ANA.png",
+    "heightPoints" : 16,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/24pt\/1x\/BOS.png",
+    "heightPoints" : 16,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/24pt\/1x\/BUF.png",
+    "heightPoints" : 16,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/24pt\/1x\/CGY.png",
+    "heightPoints" : 16,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/24pt\/1x\/CAR.png",
+    "heightPoints" : 16,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/24pt\/1x\/CHI.png",
+    "heightPoints" : 16,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/24pt\/1x\/COL.png",
+    "heightPoints" : 16,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/24pt\/1x\/CBJ.png",
+    "heightPoints" : 16,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/24pt\/1x\/DAL.png",
+    "heightPoints" : 16,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/24pt\/1x\/DET.png",
+    "heightPoints" : 16,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/24pt\/1x\/EDM.png",
+    "heightPoints" : 16,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/24pt\/1x\/FLA.png",
+    "heightPoints" : 16,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/24pt\/1x\/LAK.png",
+    "heightPoints" : 16,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/24pt\/1x\/MIN.png",
+    "heightPoints" : 16,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/24pt\/1x\/MTL.png",
+    "heightPoints" : 16,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/24pt\/1x\/NSH.png",
+    "heightPoints" : 16,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/24pt\/1x\/NJD.png",
+    "heightPoints" : 16,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/24pt\/1x\/NYI.png",
+    "heightPoints" : 16,
+    "name" : "New York Islanders",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/24pt\/1x\/NYR.png",
+    "heightPoints" : 16,
+    "name" : "New York Rangers",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/24pt\/1x\/OTT.png",
+    "heightPoints" : 16,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/24pt\/1x\/PHI.png",
+    "heightPoints" : 16,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/24pt\/1x\/PIT.png",
+    "heightPoints" : 16,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/24pt\/1x\/SJS.png",
+    "heightPoints" : 16,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/24pt\/1x\/SEA.png",
+    "heightPoints" : 16,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/24pt\/1x\/STL.png",
+    "heightPoints" : 16,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/24pt\/1x\/TBL.png",
+    "heightPoints" : 16,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/24pt\/1x\/TOR.png",
+    "heightPoints" : 16,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/24pt\/1x\/UTA.png",
+    "heightPoints" : 16,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/24pt\/1x\/VAN.png",
+    "heightPoints" : 16,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/24pt\/1x\/VGK.png",
+    "heightPoints" : 16,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/24pt\/1x\/WSH.png",
+    "heightPoints" : 16,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/24pt\/1x\/WPG.png",
+    "heightPoints" : 16,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 16,
+    "pixelWidth" : 24,
+    "scale" : 1,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/24pt\/2x\/ANA.png",
+    "heightPoints" : 16,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/24pt\/2x\/BOS.png",
+    "heightPoints" : 16,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/24pt\/2x\/BUF.png",
+    "heightPoints" : 16,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/24pt\/2x\/CGY.png",
+    "heightPoints" : 16,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/24pt\/2x\/CAR.png",
+    "heightPoints" : 16,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/24pt\/2x\/CHI.png",
+    "heightPoints" : 16,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/24pt\/2x\/COL.png",
+    "heightPoints" : 16,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/24pt\/2x\/CBJ.png",
+    "heightPoints" : 16,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/24pt\/2x\/DAL.png",
+    "heightPoints" : 16,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/24pt\/2x\/DET.png",
+    "heightPoints" : 16,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/24pt\/2x\/EDM.png",
+    "heightPoints" : 16,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/24pt\/2x\/FLA.png",
+    "heightPoints" : 16,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/24pt\/2x\/LAK.png",
+    "heightPoints" : 16,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/24pt\/2x\/MIN.png",
+    "heightPoints" : 16,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/24pt\/2x\/MTL.png",
+    "heightPoints" : 16,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/24pt\/2x\/NSH.png",
+    "heightPoints" : 16,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/24pt\/2x\/NJD.png",
+    "heightPoints" : 16,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/24pt\/2x\/NYI.png",
+    "heightPoints" : 16,
+    "name" : "New York Islanders",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/24pt\/2x\/NYR.png",
+    "heightPoints" : 16,
+    "name" : "New York Rangers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/24pt\/2x\/OTT.png",
+    "heightPoints" : 16,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/24pt\/2x\/PHI.png",
+    "heightPoints" : 16,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/24pt\/2x\/PIT.png",
+    "heightPoints" : 16,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/24pt\/2x\/SJS.png",
+    "heightPoints" : 16,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/24pt\/2x\/SEA.png",
+    "heightPoints" : 16,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/24pt\/2x\/STL.png",
+    "heightPoints" : 16,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/24pt\/2x\/TBL.png",
+    "heightPoints" : 16,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/24pt\/2x\/TOR.png",
+    "heightPoints" : 16,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/24pt\/2x\/UTA.png",
+    "heightPoints" : 16,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/24pt\/2x\/VAN.png",
+    "heightPoints" : 16,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/24pt\/2x\/VGK.png",
+    "heightPoints" : 16,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/24pt\/2x\/WSH.png",
+    "heightPoints" : 16,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/24pt\/2x\/WPG.png",
+    "heightPoints" : 16,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 2,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/24pt\/3x\/ANA.png",
+    "heightPoints" : 16,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/24pt\/3x\/BOS.png",
+    "heightPoints" : 16,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/24pt\/3x\/BUF.png",
+    "heightPoints" : 16,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/24pt\/3x\/CGY.png",
+    "heightPoints" : 16,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/24pt\/3x\/CAR.png",
+    "heightPoints" : 16,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/24pt\/3x\/CHI.png",
+    "heightPoints" : 16,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/24pt\/3x\/COL.png",
+    "heightPoints" : 16,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/24pt\/3x\/CBJ.png",
+    "heightPoints" : 16,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/24pt\/3x\/DAL.png",
+    "heightPoints" : 16,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/24pt\/3x\/DET.png",
+    "heightPoints" : 16,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/24pt\/3x\/EDM.png",
+    "heightPoints" : 16,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/24pt\/3x\/FLA.png",
+    "heightPoints" : 16,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/24pt\/3x\/LAK.png",
+    "heightPoints" : 16,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/24pt\/3x\/MIN.png",
+    "heightPoints" : 16,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/24pt\/3x\/MTL.png",
+    "heightPoints" : 16,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/24pt\/3x\/NSH.png",
+    "heightPoints" : 16,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/24pt\/3x\/NJD.png",
+    "heightPoints" : 16,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/24pt\/3x\/NYI.png",
+    "heightPoints" : 16,
+    "name" : "New York Islanders",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/24pt\/3x\/NYR.png",
+    "heightPoints" : 16,
+    "name" : "New York Rangers",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/24pt\/3x\/OTT.png",
+    "heightPoints" : 16,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/24pt\/3x\/PHI.png",
+    "heightPoints" : 16,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/24pt\/3x\/PIT.png",
+    "heightPoints" : 16,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/24pt\/3x\/SJS.png",
+    "heightPoints" : 16,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/24pt\/3x\/SEA.png",
+    "heightPoints" : 16,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/24pt\/3x\/STL.png",
+    "heightPoints" : 16,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/24pt\/3x\/TBL.png",
+    "heightPoints" : 16,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/24pt\/3x\/TOR.png",
+    "heightPoints" : 16,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/24pt\/3x\/UTA.png",
+    "heightPoints" : 16,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/24pt\/3x\/VAN.png",
+    "heightPoints" : 16,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/24pt\/3x\/VGK.png",
+    "heightPoints" : 16,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/24pt\/3x\/WSH.png",
+    "heightPoints" : 16,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/24pt\/3x\/WPG.png",
+    "heightPoints" : 16,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 48,
+    "pixelWidth" : 72,
+    "scale" : 3,
+    "widthPoints" : 24
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/32pt\/1x\/ANA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/32pt\/1x\/BOS.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/32pt\/1x\/BUF.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/32pt\/1x\/CGY.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/32pt\/1x\/CAR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/32pt\/1x\/CHI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/32pt\/1x\/COL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/32pt\/1x\/CBJ.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/32pt\/1x\/DAL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/32pt\/1x\/DET.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/32pt\/1x\/EDM.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/32pt\/1x\/FLA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/32pt\/1x\/LAK.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/32pt\/1x\/MIN.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/32pt\/1x\/MTL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/32pt\/1x\/NSH.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/32pt\/1x\/NJD.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/32pt\/1x\/NYI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New York Islanders",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/32pt\/1x\/NYR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New York Rangers",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/32pt\/1x\/OTT.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/32pt\/1x\/PHI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/32pt\/1x\/PIT.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/32pt\/1x\/SJS.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/32pt\/1x\/SEA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/32pt\/1x\/STL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/32pt\/1x\/TBL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/32pt\/1x\/TOR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/32pt\/1x\/UTA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/32pt\/1x\/VAN.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/32pt\/1x\/VGK.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/32pt\/1x\/WSH.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/32pt\/1x\/WPG.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 22,
+    "pixelWidth" : 32,
+    "scale" : 1,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/32pt\/2x\/ANA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/32pt\/2x\/BOS.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/32pt\/2x\/BUF.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/32pt\/2x\/CGY.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/32pt\/2x\/CAR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/32pt\/2x\/CHI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/32pt\/2x\/COL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/32pt\/2x\/CBJ.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/32pt\/2x\/DAL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/32pt\/2x\/DET.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/32pt\/2x\/EDM.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/32pt\/2x\/FLA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/32pt\/2x\/LAK.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/32pt\/2x\/MIN.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/32pt\/2x\/MTL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/32pt\/2x\/NSH.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/32pt\/2x\/NJD.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/32pt\/2x\/NYI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New York Islanders",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/32pt\/2x\/NYR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New York Rangers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/32pt\/2x\/OTT.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/32pt\/2x\/PHI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/32pt\/2x\/PIT.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/32pt\/2x\/SJS.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/32pt\/2x\/SEA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/32pt\/2x\/STL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/32pt\/2x\/TBL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/32pt\/2x\/TOR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/32pt\/2x\/UTA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/32pt\/2x\/VAN.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/32pt\/2x\/VGK.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/32pt\/2x\/WSH.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/32pt\/2x\/WPG.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 2,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/32pt\/3x\/ANA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/32pt\/3x\/BOS.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/32pt\/3x\/BUF.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/32pt\/3x\/CGY.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/32pt\/3x\/CAR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/32pt\/3x\/CHI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/32pt\/3x\/COL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/32pt\/3x\/CBJ.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/32pt\/3x\/DAL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/32pt\/3x\/DET.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/32pt\/3x\/EDM.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/32pt\/3x\/FLA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/32pt\/3x\/LAK.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/32pt\/3x\/MIN.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/32pt\/3x\/MTL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/32pt\/3x\/NSH.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/32pt\/3x\/NJD.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/32pt\/3x\/NYI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New York Islanders",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/32pt\/3x\/NYR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "New York Rangers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/32pt\/3x\/OTT.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/32pt\/3x\/PHI.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/32pt\/3x\/PIT.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/32pt\/3x\/SJS.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/32pt\/3x\/SEA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/32pt\/3x\/STL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/32pt\/3x\/TBL.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/32pt\/3x\/TOR.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/32pt\/3x\/UTA.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/32pt\/3x\/VAN.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/32pt\/3x\/VGK.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/32pt\/3x\/WSH.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/32pt\/3x\/WPG.png",
+    "heightPoints" : 21.333333333333332,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 3,
+    "widthPoints" : 32
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/48pt\/1x\/ANA.png",
+    "heightPoints" : 32,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/48pt\/1x\/BOS.png",
+    "heightPoints" : 32,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/48pt\/1x\/BUF.png",
+    "heightPoints" : 32,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/48pt\/1x\/CGY.png",
+    "heightPoints" : 32,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/48pt\/1x\/CAR.png",
+    "heightPoints" : 32,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/48pt\/1x\/CHI.png",
+    "heightPoints" : 32,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/48pt\/1x\/COL.png",
+    "heightPoints" : 32,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/48pt\/1x\/CBJ.png",
+    "heightPoints" : 32,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/48pt\/1x\/DAL.png",
+    "heightPoints" : 32,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/48pt\/1x\/DET.png",
+    "heightPoints" : 32,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/48pt\/1x\/EDM.png",
+    "heightPoints" : 32,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/48pt\/1x\/FLA.png",
+    "heightPoints" : 32,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/48pt\/1x\/LAK.png",
+    "heightPoints" : 32,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/48pt\/1x\/MIN.png",
+    "heightPoints" : 32,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/48pt\/1x\/MTL.png",
+    "heightPoints" : 32,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/48pt\/1x\/NSH.png",
+    "heightPoints" : 32,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/48pt\/1x\/NJD.png",
+    "heightPoints" : 32,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/48pt\/1x\/NYI.png",
+    "heightPoints" : 32,
+    "name" : "New York Islanders",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/48pt\/1x\/NYR.png",
+    "heightPoints" : 32,
+    "name" : "New York Rangers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/48pt\/1x\/OTT.png",
+    "heightPoints" : 32,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/48pt\/1x\/PHI.png",
+    "heightPoints" : 32,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/48pt\/1x\/PIT.png",
+    "heightPoints" : 32,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/48pt\/1x\/SJS.png",
+    "heightPoints" : 32,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/48pt\/1x\/SEA.png",
+    "heightPoints" : 32,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/48pt\/1x\/STL.png",
+    "heightPoints" : 32,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/48pt\/1x\/TBL.png",
+    "heightPoints" : 32,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/48pt\/1x\/TOR.png",
+    "heightPoints" : 32,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/48pt\/1x\/UTA.png",
+    "heightPoints" : 32,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/48pt\/1x\/VAN.png",
+    "heightPoints" : 32,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/48pt\/1x\/VGK.png",
+    "heightPoints" : 32,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/48pt\/1x\/WSH.png",
+    "heightPoints" : 32,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/48pt\/1x\/WPG.png",
+    "heightPoints" : 32,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 32,
+    "pixelWidth" : 48,
+    "scale" : 1,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/48pt\/2x\/ANA.png",
+    "heightPoints" : 32,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/48pt\/2x\/BOS.png",
+    "heightPoints" : 32,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/48pt\/2x\/BUF.png",
+    "heightPoints" : 32,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/48pt\/2x\/CGY.png",
+    "heightPoints" : 32,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/48pt\/2x\/CAR.png",
+    "heightPoints" : 32,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/48pt\/2x\/CHI.png",
+    "heightPoints" : 32,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/48pt\/2x\/COL.png",
+    "heightPoints" : 32,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/48pt\/2x\/CBJ.png",
+    "heightPoints" : 32,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/48pt\/2x\/DAL.png",
+    "heightPoints" : 32,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/48pt\/2x\/DET.png",
+    "heightPoints" : 32,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/48pt\/2x\/EDM.png",
+    "heightPoints" : 32,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/48pt\/2x\/FLA.png",
+    "heightPoints" : 32,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/48pt\/2x\/LAK.png",
+    "heightPoints" : 32,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/48pt\/2x\/MIN.png",
+    "heightPoints" : 32,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/48pt\/2x\/MTL.png",
+    "heightPoints" : 32,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/48pt\/2x\/NSH.png",
+    "heightPoints" : 32,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/48pt\/2x\/NJD.png",
+    "heightPoints" : 32,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/48pt\/2x\/NYI.png",
+    "heightPoints" : 32,
+    "name" : "New York Islanders",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/48pt\/2x\/NYR.png",
+    "heightPoints" : 32,
+    "name" : "New York Rangers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/48pt\/2x\/OTT.png",
+    "heightPoints" : 32,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/48pt\/2x\/PHI.png",
+    "heightPoints" : 32,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/48pt\/2x\/PIT.png",
+    "heightPoints" : 32,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/48pt\/2x\/SJS.png",
+    "heightPoints" : 32,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/48pt\/2x\/SEA.png",
+    "heightPoints" : 32,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/48pt\/2x\/STL.png",
+    "heightPoints" : 32,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/48pt\/2x\/TBL.png",
+    "heightPoints" : 32,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/48pt\/2x\/TOR.png",
+    "heightPoints" : 32,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/48pt\/2x\/UTA.png",
+    "heightPoints" : 32,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/48pt\/2x\/VAN.png",
+    "heightPoints" : 32,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/48pt\/2x\/VGK.png",
+    "heightPoints" : 32,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/48pt\/2x\/WSH.png",
+    "heightPoints" : 32,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/48pt\/2x\/WPG.png",
+    "heightPoints" : 32,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 64,
+    "pixelWidth" : 96,
+    "scale" : 2,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/48pt\/3x\/ANA.png",
+    "heightPoints" : 32,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/48pt\/3x\/BOS.png",
+    "heightPoints" : 32,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/48pt\/3x\/BUF.png",
+    "heightPoints" : 32,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/48pt\/3x\/CGY.png",
+    "heightPoints" : 32,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/48pt\/3x\/CAR.png",
+    "heightPoints" : 32,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/48pt\/3x\/CHI.png",
+    "heightPoints" : 32,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/48pt\/3x\/COL.png",
+    "heightPoints" : 32,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/48pt\/3x\/CBJ.png",
+    "heightPoints" : 32,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/48pt\/3x\/DAL.png",
+    "heightPoints" : 32,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/48pt\/3x\/DET.png",
+    "heightPoints" : 32,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/48pt\/3x\/EDM.png",
+    "heightPoints" : 32,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/48pt\/3x\/FLA.png",
+    "heightPoints" : 32,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/48pt\/3x\/LAK.png",
+    "heightPoints" : 32,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/48pt\/3x\/MIN.png",
+    "heightPoints" : 32,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/48pt\/3x\/MTL.png",
+    "heightPoints" : 32,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/48pt\/3x\/NSH.png",
+    "heightPoints" : 32,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/48pt\/3x\/NJD.png",
+    "heightPoints" : 32,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/48pt\/3x\/NYI.png",
+    "heightPoints" : 32,
+    "name" : "New York Islanders",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/48pt\/3x\/NYR.png",
+    "heightPoints" : 32,
+    "name" : "New York Rangers",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/48pt\/3x\/OTT.png",
+    "heightPoints" : 32,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/48pt\/3x\/PHI.png",
+    "heightPoints" : 32,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/48pt\/3x\/PIT.png",
+    "heightPoints" : 32,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/48pt\/3x\/SJS.png",
+    "heightPoints" : 32,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/48pt\/3x\/SEA.png",
+    "heightPoints" : 32,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/48pt\/3x\/STL.png",
+    "heightPoints" : 32,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/48pt\/3x\/TBL.png",
+    "heightPoints" : 32,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/48pt\/3x\/TOR.png",
+    "heightPoints" : 32,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/48pt\/3x\/UTA.png",
+    "heightPoints" : 32,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/48pt\/3x\/VAN.png",
+    "heightPoints" : 32,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/48pt\/3x\/VGK.png",
+    "heightPoints" : 32,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/48pt\/3x\/WSH.png",
+    "heightPoints" : 32,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/48pt\/3x\/WPG.png",
+    "heightPoints" : 32,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 96,
+    "pixelWidth" : 144,
+    "scale" : 3,
+    "widthPoints" : 48
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/64pt\/1x\/ANA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/64pt\/1x\/BOS.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/64pt\/1x\/BUF.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/64pt\/1x\/CGY.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/64pt\/1x\/CAR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/64pt\/1x\/CHI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/64pt\/1x\/COL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/64pt\/1x\/CBJ.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/64pt\/1x\/DAL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/64pt\/1x\/DET.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/64pt\/1x\/EDM.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/64pt\/1x\/FLA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/64pt\/1x\/LAK.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/64pt\/1x\/MIN.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/64pt\/1x\/MTL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/64pt\/1x\/NSH.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/64pt\/1x\/NJD.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/64pt\/1x\/NYI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New York Islanders",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/64pt\/1x\/NYR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New York Rangers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/64pt\/1x\/OTT.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/64pt\/1x\/PHI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/64pt\/1x\/PIT.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/64pt\/1x\/SJS.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/64pt\/1x\/SEA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/64pt\/1x\/STL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/64pt\/1x\/TBL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/64pt\/1x\/TOR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/64pt\/1x\/UTA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/64pt\/1x\/VAN.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/64pt\/1x\/VGK.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/64pt\/1x\/WSH.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/64pt\/1x\/WPG.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 43,
+    "pixelWidth" : 64,
+    "scale" : 1,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/64pt\/2x\/ANA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/64pt\/2x\/BOS.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/64pt\/2x\/BUF.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/64pt\/2x\/CGY.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/64pt\/2x\/CAR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/64pt\/2x\/CHI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/64pt\/2x\/COL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/64pt\/2x\/CBJ.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/64pt\/2x\/DAL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/64pt\/2x\/DET.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/64pt\/2x\/EDM.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/64pt\/2x\/FLA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/64pt\/2x\/LAK.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/64pt\/2x\/MIN.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/64pt\/2x\/MTL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/64pt\/2x\/NSH.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/64pt\/2x\/NJD.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/64pt\/2x\/NYI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New York Islanders",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/64pt\/2x\/NYR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New York Rangers",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/64pt\/2x\/OTT.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/64pt\/2x\/PHI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/64pt\/2x\/PIT.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/64pt\/2x\/SJS.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/64pt\/2x\/SEA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/64pt\/2x\/STL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/64pt\/2x\/TBL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/64pt\/2x\/TOR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/64pt\/2x\/UTA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/64pt\/2x\/VAN.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/64pt\/2x\/VGK.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/64pt\/2x\/WSH.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/64pt\/2x\/WPG.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 86,
+    "pixelWidth" : 128,
+    "scale" : 2,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/64pt\/3x\/ANA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/64pt\/3x\/BOS.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/64pt\/3x\/BUF.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/64pt\/3x\/CGY.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/64pt\/3x\/CAR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/64pt\/3x\/CHI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/64pt\/3x\/COL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/64pt\/3x\/CBJ.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/64pt\/3x\/DAL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/64pt\/3x\/DET.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/64pt\/3x\/EDM.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/64pt\/3x\/FLA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/64pt\/3x\/LAK.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/64pt\/3x\/MIN.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/64pt\/3x\/MTL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/64pt\/3x\/NSH.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/64pt\/3x\/NJD.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/64pt\/3x\/NYI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New York Islanders",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/64pt\/3x\/NYR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "New York Rangers",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/64pt\/3x\/OTT.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/64pt\/3x\/PHI.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/64pt\/3x\/PIT.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/64pt\/3x\/SJS.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/64pt\/3x\/SEA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/64pt\/3x\/STL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/64pt\/3x\/TBL.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/64pt\/3x\/TOR.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/64pt\/3x\/UTA.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/64pt\/3x\/VAN.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/64pt\/3x\/VGK.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/64pt\/3x\/WSH.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/64pt\/3x\/WPG.png",
+    "heightPoints" : 42.666666666666664,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 128,
+    "pixelWidth" : 192,
+    "scale" : 3,
+    "widthPoints" : 64
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/80pt\/1x\/ANA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/80pt\/1x\/BOS.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/80pt\/1x\/BUF.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/80pt\/1x\/CGY.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/80pt\/1x\/CAR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/80pt\/1x\/CHI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/80pt\/1x\/COL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/80pt\/1x\/CBJ.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/80pt\/1x\/DAL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/80pt\/1x\/DET.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/80pt\/1x\/EDM.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/80pt\/1x\/FLA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/80pt\/1x\/LAK.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/80pt\/1x\/MIN.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/80pt\/1x\/MTL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/80pt\/1x\/NSH.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/80pt\/1x\/NJD.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/80pt\/1x\/NYI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New York Islanders",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/80pt\/1x\/NYR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New York Rangers",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/80pt\/1x\/OTT.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/80pt\/1x\/PHI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/80pt\/1x\/PIT.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/80pt\/1x\/SJS.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/80pt\/1x\/SEA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/80pt\/1x\/STL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/80pt\/1x\/TBL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/80pt\/1x\/TOR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/80pt\/1x\/UTA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/80pt\/1x\/VAN.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/80pt\/1x\/VGK.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/80pt\/1x\/WSH.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/80pt\/1x\/WPG.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 54,
+    "pixelWidth" : 80,
+    "scale" : 1,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/80pt\/2x\/ANA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/80pt\/2x\/BOS.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/80pt\/2x\/BUF.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/80pt\/2x\/CGY.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/80pt\/2x\/CAR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/80pt\/2x\/CHI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/80pt\/2x\/COL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/80pt\/2x\/CBJ.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/80pt\/2x\/DAL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/80pt\/2x\/DET.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/80pt\/2x\/EDM.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/80pt\/2x\/FLA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/80pt\/2x\/LAK.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/80pt\/2x\/MIN.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/80pt\/2x\/MTL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/80pt\/2x\/NSH.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/80pt\/2x\/NJD.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/80pt\/2x\/NYI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New York Islanders",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/80pt\/2x\/NYR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New York Rangers",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/80pt\/2x\/OTT.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/80pt\/2x\/PHI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/80pt\/2x\/PIT.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/80pt\/2x\/SJS.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/80pt\/2x\/SEA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/80pt\/2x\/STL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/80pt\/2x\/TBL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/80pt\/2x\/TOR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/80pt\/2x\/UTA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/80pt\/2x\/VAN.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/80pt\/2x\/VGK.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/80pt\/2x\/WSH.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/80pt\/2x\/WPG.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 107,
+    "pixelWidth" : 160,
+    "scale" : 2,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "ANA",
+    "file" : "sizes\/80pt\/3x\/ANA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Anaheim Ducks",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "BOS",
+    "file" : "sizes\/80pt\/3x\/BOS.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Boston Bruins",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "BUF",
+    "file" : "sizes\/80pt\/3x\/BUF.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Buffalo Sabres",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CGY",
+    "file" : "sizes\/80pt\/3x\/CGY.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Calgary Flames",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CAR",
+    "file" : "sizes\/80pt\/3x\/CAR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Carolina Hurricanes",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CHI",
+    "file" : "sizes\/80pt\/3x\/CHI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Chicago Blackhawks",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "COL",
+    "file" : "sizes\/80pt\/3x\/COL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Colorado Avalanche",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "CBJ",
+    "file" : "sizes\/80pt\/3x\/CBJ.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Columbus Blue Jackets",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "DAL",
+    "file" : "sizes\/80pt\/3x\/DAL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Dallas Stars",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "DET",
+    "file" : "sizes\/80pt\/3x\/DET.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Detroit Red Wings",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "EDM",
+    "file" : "sizes\/80pt\/3x\/EDM.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Edmonton Oilers",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "FLA",
+    "file" : "sizes\/80pt\/3x\/FLA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Florida Panthers",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "LAK",
+    "file" : "sizes\/80pt\/3x\/LAK.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Los Angeles Kings",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "MIN",
+    "file" : "sizes\/80pt\/3x\/MIN.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Minnesota Wild",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "MTL",
+    "file" : "sizes\/80pt\/3x\/MTL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Montréal Canadiens",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NSH",
+    "file" : "sizes\/80pt\/3x\/NSH.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Nashville Predators",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NJD",
+    "file" : "sizes\/80pt\/3x\/NJD.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New Jersey Devils",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NYI",
+    "file" : "sizes\/80pt\/3x\/NYI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New York Islanders",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "NYR",
+    "file" : "sizes\/80pt\/3x\/NYR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "New York Rangers",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "OTT",
+    "file" : "sizes\/80pt\/3x\/OTT.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Ottawa Senators",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "PHI",
+    "file" : "sizes\/80pt\/3x\/PHI.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Philadelphia Flyers",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "PIT",
+    "file" : "sizes\/80pt\/3x\/PIT.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Pittsburgh Penguins",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "SJS",
+    "file" : "sizes\/80pt\/3x\/SJS.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "San Jose Sharks",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "SEA",
+    "file" : "sizes\/80pt\/3x\/SEA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Seattle Kraken",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "STL",
+    "file" : "sizes\/80pt\/3x\/STL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "St. Louis Blues",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "TBL",
+    "file" : "sizes\/80pt\/3x\/TBL.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Tampa Bay Lightning",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "TOR",
+    "file" : "sizes\/80pt\/3x\/TOR.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Toronto Maple Leafs",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "UTA",
+    "file" : "sizes\/80pt\/3x\/UTA.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Utah Mammoth",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "VAN",
+    "file" : "sizes\/80pt\/3x\/VAN.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Vancouver Canucks",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "VGK",
+    "file" : "sizes\/80pt\/3x\/VGK.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Vegas Golden Knights",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "WSH",
+    "file" : "sizes\/80pt\/3x\/WSH.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Washington Capitals",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  },
+  {
+    "code" : "WPG",
+    "file" : "sizes\/80pt\/3x\/WPG.png",
+    "heightPoints" : 53.333333333333336,
+    "name" : "Winnipeg Jets",
+    "pixelHeight" : 160,
+    "pixelWidth" : 240,
+    "scale" : 3,
+    "widthPoints" : 80
+  }
+]

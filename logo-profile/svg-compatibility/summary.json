@@ -1,0 +1,8 @@
+{
+  "nativeCases": 30,
+  "nativeCasesWithinThreshold": 12,
+  "fullCorpusParity": false,
+  "host": "macOS-26.3.1-arm64-arm-64bit-Mach-O",
+  "upstreamCommit": "85b5d58ad02c207c496fa34426dc6560d6ae32f0",
+  "scope": "CoreSVG backend comparison, not the full SDWebImage pipeline or SVG conformance suite"
+}

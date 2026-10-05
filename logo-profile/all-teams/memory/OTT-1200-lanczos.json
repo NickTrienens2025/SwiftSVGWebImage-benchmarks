@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 60096512,
+  "asset" : "OTT",
+  "baselinePeakRSSBytes" : 17334272,
+  "baselineRSSBytes" : 17334272,
+  "date" : "2026-09-26T19:55:32Z",
+  "decodedBitmapBytes" : 4320000,
+  "decodedHeight" : 900,
+  "decodedWidth" : 1200,
+  "encodedCacheBytes" : 295362,
+  "encodedPNGBytes" : 271191,
+  "encodedSourceBytes" : 24171,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 72220672,
+  "peakRSSBytes" : 89554944,
+  "points" : 1200,
+  "residentDeltaBytes" : 42762240,
+  "scale" : 1,
+  "svgIntermediateRGBABytes" : 17280000,
+  "targetHeight" : 900,
+  "targetWidth" : 1200
+}

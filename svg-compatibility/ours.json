@@ -1,0 +1,626 @@
+[
+  {
+    "asset" : "alphachannel",
+    "file" : "ours\/alphachannel-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 4.0194590000000003,
+    "renderMilliseconds" : [
+      0.34820800000000002,
+      0.38650000000000001,
+      0.29945899999999998
+    ],
+    "size" : 64,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "file" : "ours\/alphachannel-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.14616699999999999,
+    "renderMilliseconds" : [
+      1.8061670000000001,
+      1.6828339999999999,
+      1.1853750000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "file" : "ours\/alphachannel-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.204292,
+    "renderMilliseconds" : [
+      2.2178339999999999,
+      2.2294999999999998,
+      2.2108750000000001
+    ],
+    "size" : 256,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "file" : "ours\/alphachannel-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.15829199999999999,
+    "renderMilliseconds" : [
+      7.6193340000000003,
+      10.395625000000001,
+      7.7938330000000002
+    ],
+    "size" : 256,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "file" : "ours\/alphachannel-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.20308300000000001,
+    "renderMilliseconds" : [
+      30.225667000000001,
+      29.9815,
+      30.262542
+    ],
+    "size" : 1024,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "alphachannel",
+    "file" : "ours\/alphachannel-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.161583,
+    "renderMilliseconds" : [
+      99.606166999999999,
+      100.041541,
+      99.492374999999996
+    ],
+    "size" : 1024,
+    "sourceBytes" : 263,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "clippath",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 64,
+    "sourceBytes" : 2398,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "clippath",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 64,
+    "sourceBytes" : 2398,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "clippath",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 256,
+    "sourceBytes" : 2398,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "clippath",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 256,
+    "sourceBytes" : 2398,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "clippath",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 1024,
+    "sourceBytes" : 2398,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "clippath",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 1024,
+    "sourceBytes" : 2398,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "gaussian1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 64,
+    "sourceBytes" : 11098,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "gaussian1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 64,
+    "sourceBytes" : 11098,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "gaussian1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 256,
+    "sourceBytes" : 11098,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "gaussian1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 256,
+    "sourceBytes" : 11098,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "gaussian1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 1024,
+    "sourceBytes" : 11098,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "gaussian1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 1024,
+    "sourceBytes" : 11098,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "github",
+    "file" : "ours\/github-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.28275,
+    "renderMilliseconds" : [
+      0.219917,
+      0.27008300000000002,
+      0.21174999999999999
+    ],
+    "size" : 64,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "file" : "ours\/github-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.217833,
+    "renderMilliseconds" : [
+      1.1112919999999999,
+      0.77241599999999999,
+      1.0078750000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "file" : "ours\/github-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.232209,
+    "renderMilliseconds" : [
+      0.88275000000000003,
+      0.86724999999999997,
+      0.82404100000000002
+    ],
+    "size" : 256,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "file" : "ours\/github-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.23583299999999999,
+    "renderMilliseconds" : [
+      4.2557919999999996,
+      2.707417,
+      2.7368749999999999
+    ],
+    "size" : 256,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "file" : "ours\/github-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.29829099999999997,
+    "renderMilliseconds" : [
+      11.174083,
+      10.511333,
+      10.951625
+    ],
+    "size" : 1024,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "github",
+    "file" : "ours\/github-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.30449999999999999,
+    "renderMilliseconds" : [
+      26.99625,
+      27.169459,
+      28.143833999999998
+    ],
+    "size" : 1024,
+    "sourceBytes" : 822,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "lineargradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 64,
+    "sourceBytes" : 3129,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "lineargradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 64,
+    "sourceBytes" : 3129,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "lineargradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 256,
+    "sourceBytes" : 3129,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "lineargradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 256,
+    "sourceBytes" : 3129,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "lineargradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : false,
+    "size" : 1024,
+    "sourceBytes" : 3129,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "lineargradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos" : true,
+    "size" : 1024,
+    "sourceBytes" : 3129,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : false,
+    "size" : 64,
+    "sourceBytes" : 4787,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : true,
+    "size" : 64,
+    "sourceBytes" : 4787,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : false,
+    "size" : 256,
+    "sourceBytes" : 4787,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : true,
+    "size" : 256,
+    "sourceBytes" : 4787,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : false,
+    "size" : 1024,
+    "sourceBytes" : 4787,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "masking-path-04-b",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : true,
+    "size" : 1024,
+    "sourceBytes" : 4787,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "radialgradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:output_extension\")",
+    "lanczos" : false,
+    "size" : 64,
+    "sourceBytes" : 3321,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "radialgradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:output_extension\")",
+    "lanczos" : true,
+    "size" : 64,
+    "sourceBytes" : 3321,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "radialgradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:output_extension\")",
+    "lanczos" : false,
+    "size" : 256,
+    "sourceBytes" : 3321,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "radialgradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:output_extension\")",
+    "lanczos" : true,
+    "size" : 256,
+    "sourceBytes" : 3321,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "radialgradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:output_extension\")",
+    "lanczos" : false,
+    "size" : 1024,
+    "sourceBytes" : 3321,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "radialgradient1",
+    "error" : "unsupportedSVG(\"Attribute: inkscape:output_extension\")",
+    "lanczos" : true,
+    "size" : 1024,
+    "sourceBytes" : 3321,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "tiger",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : false,
+    "size" : 64,
+    "sourceBytes" : 96719,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "tiger",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : true,
+    "size" : 64,
+    "sourceBytes" : 96719,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "tiger",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : false,
+    "size" : 256,
+    "sourceBytes" : 96719,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "tiger",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : true,
+    "size" : 256,
+    "sourceBytes" : 96719,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "tiger",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : false,
+    "size" : 1024,
+    "sourceBytes" : 96719,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "tiger",
+    "error" : "unsupportedSVG(\"DTD and entities\")",
+    "lanczos" : true,
+    "size" : 1024,
+    "sourceBytes" : 96719,
+    "status" : "rejected"
+  },
+  {
+    "asset" : "w3c",
+    "file" : "ours\/w3c-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.13495799999999999,
+    "renderMilliseconds" : [
+      0.228875,
+      0.202375,
+      0.17433299999999999
+    ],
+    "size" : 64,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "file" : "ours\/w3c-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.110334,
+    "renderMilliseconds" : [
+      0.82483300000000004,
+      0.890459,
+      1.1020000000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "file" : "ours\/w3c-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.137958,
+    "renderMilliseconds" : [
+      0.93200000000000005,
+      1.0642499999999999,
+      1.1313329999999999
+    ],
+    "size" : 256,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "file" : "ours\/w3c-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.172791,
+    "renderMilliseconds" : [
+      2.7396669999999999,
+      2.6447500000000002,
+      2.3184170000000002
+    ],
+    "size" : 256,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "file" : "ours\/w3c-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.1875,
+    "renderMilliseconds" : [
+      10.577249999999999,
+      10.520333000000001,
+      11.29875
+    ],
+    "size" : 1024,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "w3c",
+    "file" : "ours\/w3c-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.27670899999999998,
+    "renderMilliseconds" : [
+      25.281834,
+      25.627708999999999,
+      25.864208999999999
+    ],
+    "size" : 1024,
+    "sourceBytes" : 351,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "file" : "ours\/wikimedia-64-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.24775,
+    "renderMilliseconds" : [
+      0.22395799999999999,
+      0.32170799999999999,
+      0.238875
+    ],
+    "size" : 64,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "file" : "ours\/wikimedia-64-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.18012500000000001,
+    "renderMilliseconds" : [
+      1.14575,
+      1.09975,
+      1.1194170000000001
+    ],
+    "size" : 64,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "file" : "ours\/wikimedia-256-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.122292,
+    "renderMilliseconds" : [
+      1.0179590000000001,
+      0.989209,
+      0.91025
+    ],
+    "size" : 256,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "file" : "ours\/wikimedia-256-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.13070899999999999,
+    "renderMilliseconds" : [
+      5.1334160000000004,
+      2.596584,
+      2.7039170000000001
+    ],
+    "size" : 256,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "file" : "ours\/wikimedia-1024-native.png",
+    "lanczos" : false,
+    "parseMilliseconds" : 0.1525,
+    "renderMilliseconds" : [
+      10.589458,
+      11.02125,
+      11.369375
+    ],
+    "size" : 1024,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  },
+  {
+    "asset" : "wikimedia",
+    "file" : "ours\/wikimedia-1024-lanczos.png",
+    "lanczos" : true,
+    "parseMilliseconds" : 0.36075000000000002,
+    "renderMilliseconds" : [
+      25.392707999999999,
+      30.410499999999999,
+      26.439834000000001
+    ],
+    "size" : 1024,
+    "sourceBytes" : 273,
+    "status" : "rendered"
+  }
+]

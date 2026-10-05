@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 20299776,
+  "asset" : "SEA_light",
+  "baselinePeakRSSBytes" : 17235968,
+  "baselineRSSBytes" : 17235968,
+  "date" : "2026-09-26T19:36:23Z",
+  "decodedBitmapBytes" : 24576,
+  "decodedHeight" : 64,
+  "decodedWidth" : 96,
+  "encodedCacheBytes" : 9509,
+  "encodedPNGBytes" : 5023,
+  "encodedSourceBytes" : 4486,
+  "lanczos" : false,
+  "peakIncreaseBytes" : 3063808,
+  "peakRSSBytes" : 20299776,
+  "points" : 32,
+  "residentDeltaBytes" : 3063808,
+  "scale" : 3,
+  "svgIntermediateRGBABytes" : 24576,
+  "targetHeight" : 64,
+  "targetWidth" : 96
+}

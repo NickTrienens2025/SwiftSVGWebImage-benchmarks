@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 28213248,
+  "asset" : "COL_wire",
+  "baselinePeakRSSBytes" : 17252352,
+  "baselineRSSBytes" : 17252352,
+  "date" : "2026-09-26T19:36:56Z",
+  "decodedBitmapBytes" : 6144,
+  "decodedHeight" : 32,
+  "decodedWidth" : 48,
+  "encodedCacheBytes" : 9238,
+  "encodedPNGBytes" : 1759,
+  "encodedSourceBytes" : 7479,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 10993664,
+  "peakRSSBytes" : 28246016,
+  "points" : 16,
+  "residentDeltaBytes" : 10960896,
+  "scale" : 3,
+  "svgIntermediateRGBABytes" : 24576,
+  "targetHeight" : 32,
+  "targetWidth" : 48
+}

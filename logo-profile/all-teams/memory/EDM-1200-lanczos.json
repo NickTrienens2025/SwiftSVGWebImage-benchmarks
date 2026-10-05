@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 57425920,
+  "asset" : "EDM",
+  "baselinePeakRSSBytes" : 17219584,
+  "baselineRSSBytes" : 17219584,
+  "date" : "2026-09-26T19:55:18Z",
+  "decodedBitmapBytes" : 4320000,
+  "decodedHeight" : 900,
+  "decodedWidth" : 1200,
+  "encodedCacheBytes" : 167134,
+  "encodedPNGBytes" : 162659,
+  "encodedSourceBytes" : 4475,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 70565888,
+  "peakRSSBytes" : 87785472,
+  "points" : 1200,
+  "residentDeltaBytes" : 40206336,
+  "scale" : 1,
+  "svgIntermediateRGBABytes" : 17280000,
+  "targetHeight" : 900,
+  "targetWidth" : 1200
+}

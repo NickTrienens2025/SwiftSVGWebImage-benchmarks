@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 56983552,
+  "asset" : "PHI",
+  "baselinePeakRSSBytes" : 17235968,
+  "baselineRSSBytes" : 17235968,
+  "date" : "2026-09-26T19:55:33Z",
+  "decodedBitmapBytes" : 4320000,
+  "decodedHeight" : 900,
+  "decodedWidth" : 1200,
+  "encodedCacheBytes" : 102721,
+  "encodedPNGBytes" : 100442,
+  "encodedSourceBytes" : 2279,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 66142208,
+  "peakRSSBytes" : 83378176,
+  "points" : 1200,
+  "residentDeltaBytes" : 39747584,
+  "scale" : 1,
+  "svgIntermediateRGBABytes" : 17280000,
+  "targetHeight" : 900,
+  "targetWidth" : 1200
+}

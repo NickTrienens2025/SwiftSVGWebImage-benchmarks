@@ -1,0 +1,7 @@
+ProductName:		macOS
+ProductVersion:		26.3.1
+BuildVersion:		25D2128
+Apple M3 Pro
+19327352832
+Apple Swift version 6.3 (swiftlang-6.3.0.123.5 clang-2100.0.123.102)
+Target: arm64-apple-macosx26.0

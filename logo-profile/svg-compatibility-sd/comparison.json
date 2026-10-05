@@ -1,0 +1,1502 @@
+[
+  {
+    "asset": "alphachannel",
+    "engine": "sdwebimage",
+    "file": "ours/alphachannel-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      0.649083,
+      0.600208,
+      0.428833
+    ],
+    "size": 64,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 3.953857421875,
+    "pixelsOver16Percent": 18.7255859375,
+    "withinReviewThreshold": false,
+    "diff": "diff/alphachannel-64-native.png"
+  },
+  {
+    "asset": "alphachannel",
+    "engine": "sdwebimage",
+    "file": "ours/alphachannel-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.776458,
+      1.402375,
+      1.440166
+    ],
+    "size": 64,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 4.242513020833333,
+    "pixelsOver16Percent": 18.1396484375,
+    "withinReviewThreshold": false,
+    "diff": "diff/alphachannel-64-lanczos.png"
+  },
+  {
+    "asset": "alphachannel",
+    "engine": "sdwebimage",
+    "file": "ours/alphachannel-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.850625,
+      1.737083,
+      1.625
+    ],
+    "size": 256,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 3.8660888671875,
+    "pixelsOver16Percent": 18.54095458984375,
+    "withinReviewThreshold": false,
+    "diff": "diff/alphachannel-256-native.png"
+  },
+  {
+    "asset": "alphachannel",
+    "engine": "sdwebimage",
+    "file": "ours/alphachannel-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      4.934125,
+      4.947208,
+      4.800333
+    ],
+    "size": 256,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 3.9531402587890625,
+    "pixelsOver16Percent": 18.38226318359375,
+    "withinReviewThreshold": false,
+    "diff": "diff/alphachannel-256-lanczos.png"
+  },
+  {
+    "asset": "alphachannel",
+    "engine": "sdwebimage",
+    "file": "ours/alphachannel-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      18.814666,
+      18.63875,
+      18.220625
+    ],
+    "size": 1024,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 3.841960906982422,
+    "pixelsOver16Percent": 18.462657928466797,
+    "withinReviewThreshold": false,
+    "diff": "diff/alphachannel-1024-native.png"
+  },
+  {
+    "asset": "alphachannel",
+    "engine": "sdwebimage",
+    "file": "ours/alphachannel-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      53.023166,
+      53.317375,
+      54.509375
+    ],
+    "size": 1024,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 3.8821128209431968,
+    "pixelsOver16Percent": 18.421554565429688,
+    "withinReviewThreshold": false,
+    "diff": "diff/alphachannel-1024-lanczos.png"
+  },
+  {
+    "asset": "clippath",
+    "engine": "sdwebimage",
+    "file": "ours/clippath-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      3.013916,
+      3.089167,
+      2.693958
+    ],
+    "size": 64,
+    "sourceBytes": 2398,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/clippath-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.663330078125,
+    "pixelsOver16Percent": 1.806640625,
+    "withinReviewThreshold": false,
+    "diff": "diff/clippath-64-native.png"
+  },
+  {
+    "asset": "clippath",
+    "engine": "sdwebimage",
+    "file": "ours/clippath-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      3.381791,
+      3.284083,
+      3.200208
+    ],
+    "size": 64,
+    "sourceBytes": 2398,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/clippath-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.3296712239583333,
+    "pixelsOver16Percent": 0.732421875,
+    "withinReviewThreshold": true,
+    "diff": "diff/clippath-64-lanczos.png"
+  },
+  {
+    "asset": "clippath",
+    "engine": "sdwebimage",
+    "file": "ours/clippath-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      3.740834,
+      3.668542,
+      7.094958
+    ],
+    "size": 256,
+    "sourceBytes": 2398,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/clippath-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.2528483072916667,
+    "pixelsOver16Percent": 0.482177734375,
+    "withinReviewThreshold": true,
+    "diff": "diff/clippath-256-native.png"
+  },
+  {
+    "asset": "clippath",
+    "engine": "sdwebimage",
+    "file": "ours/clippath-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      5.889833,
+      5.986875,
+      6.101166
+    ],
+    "size": 256,
+    "sourceBytes": 2398,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/clippath-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.1624298095703125,
+    "pixelsOver16Percent": 0.37994384765625,
+    "withinReviewThreshold": true,
+    "diff": "diff/clippath-256-lanczos.png"
+  },
+  {
+    "asset": "clippath",
+    "engine": "sdwebimage",
+    "file": "ours/clippath-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      18.990291,
+      18.42225,
+      18.916333
+    ],
+    "size": 1024,
+    "sourceBytes": 2398,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/clippath-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.07154146830240886,
+    "pixelsOver16Percent": 0.13065338134765625,
+    "withinReviewThreshold": true,
+    "diff": "diff/clippath-1024-native.png"
+  },
+  {
+    "asset": "clippath",
+    "engine": "sdwebimage",
+    "file": "ours/clippath-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      47.437666,
+      47.353334,
+      47.637875
+    ],
+    "size": 1024,
+    "sourceBytes": 2398,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/clippath-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.04844443003336588,
+    "pixelsOver16Percent": 0.11348724365234375,
+    "withinReviewThreshold": true,
+    "diff": "diff/clippath-1024-lanczos.png"
+  },
+  {
+    "asset": "gaussian1",
+    "engine": "sdwebimage",
+    "file": "ours/gaussian1-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      61.645833,
+      57.696791,
+      53.64075
+    ],
+    "size": 64,
+    "sourceBytes": 11098,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/gaussian1-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.4873860677083333,
+    "pixelsOver16Percent": 4.0771484375,
+    "withinReviewThreshold": false,
+    "diff": "diff/gaussian1-64-native.png"
+  },
+  {
+    "asset": "gaussian1",
+    "engine": "sdwebimage",
+    "file": "ours/gaussian1-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      58.0845,
+      56.185125,
+      56.38975
+    ],
+    "size": 64,
+    "sourceBytes": 11098,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/gaussian1-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.1189778645833333,
+    "pixelsOver16Percent": 2.880859375,
+    "withinReviewThreshold": false,
+    "diff": "diff/gaussian1-64-lanczos.png"
+  },
+  {
+    "asset": "gaussian1",
+    "engine": "sdwebimage",
+    "file": "ours/gaussian1-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      59.967084,
+      61.900125,
+      60.649541
+    ],
+    "size": 256,
+    "sourceBytes": 11098,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/gaussian1-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.8744710286458334,
+    "pixelsOver16Percent": 2.001953125,
+    "withinReviewThreshold": false,
+    "diff": "diff/gaussian1-256-native.png"
+  },
+  {
+    "asset": "gaussian1",
+    "engine": "sdwebimage",
+    "file": "ours/gaussian1-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      66.286917,
+      64.92625,
+      63.97175
+    ],
+    "size": 256,
+    "sourceBytes": 11098,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/gaussian1-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.6541849772135416,
+    "pixelsOver16Percent": 1.35955810546875,
+    "withinReviewThreshold": false,
+    "diff": "diff/gaussian1-256-lanczos.png"
+  },
+  {
+    "asset": "gaussian1",
+    "engine": "sdwebimage",
+    "file": "ours/gaussian1-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      92.527833,
+      92.315791,
+      92.775042
+    ],
+    "size": 1024,
+    "sourceBytes": 11098,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/gaussian1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.273867925008138,
+    "pixelsOver16Percent": 0.2552986145019531,
+    "withinReviewThreshold": true,
+    "diff": "diff/gaussian1-1024-native.png"
+  },
+  {
+    "asset": "gaussian1",
+    "engine": "sdwebimage",
+    "file": "ours/gaussian1-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      114.611458,
+      119.865333,
+      126.256209
+    ],
+    "size": 1024,
+    "sourceBytes": 11098,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/gaussian1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.20422808329264322,
+    "pixelsOver16Percent": 0.12912750244140625,
+    "withinReviewThreshold": true,
+    "diff": "diff/gaussian1-1024-lanczos.png"
+  },
+  {
+    "asset": "github",
+    "engine": "sdwebimage",
+    "file": "ours/github-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      0.428167,
+      0.405125,
+      0.355833
+    ],
+    "size": 64,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-64-native.png"
+  },
+  {
+    "asset": "github",
+    "engine": "sdwebimage",
+    "file": "ours/github-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.143833,
+      1.3875,
+      1.107042
+    ],
+    "size": 64,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.98046875,
+    "pixelsOver16Percent": 0.2197265625,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-64-lanczos.png"
+  },
+  {
+    "asset": "github",
+    "engine": "sdwebimage",
+    "file": "ours/github-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.648583,
+      2.479375,
+      1.623625
+    ],
+    "size": 256,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-256-native.png"
+  },
+  {
+    "asset": "github",
+    "engine": "sdwebimage",
+    "file": "ours/github-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      3.842042,
+      3.831125,
+      3.863958
+    ],
+    "size": 256,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.2596282958984375,
+    "pixelsOver16Percent": 0.01678466796875,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-256-lanczos.png"
+  },
+  {
+    "asset": "github",
+    "engine": "sdwebimage",
+    "file": "ours/github-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      15.557084,
+      15.184833,
+      15.475083
+    ],
+    "size": 1024,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-1024-native.png"
+  },
+  {
+    "asset": "github",
+    "engine": "sdwebimage",
+    "file": "ours/github-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      42.1955,
+      42.519916,
+      42.638167
+    ],
+    "size": 1024,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.06701087951660156,
+    "pixelsOver16Percent": 0.00972747802734375,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-1024-lanczos.png"
+  },
+  {
+    "asset": "lineargradient1",
+    "engine": "sdwebimage",
+    "file": "ours/lineargradient1-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      0.617375,
+      0.556333,
+      0.668333
+    ],
+    "size": 64,
+    "sourceBytes": 3129,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/lineargradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.2671712239583333,
+    "pixelsOver16Percent": 2.978515625,
+    "withinReviewThreshold": false,
+    "diff": "diff/lineargradient1-64-native.png"
+  },
+  {
+    "asset": "lineargradient1",
+    "engine": "sdwebimage",
+    "file": "ours/lineargradient1-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.742583,
+      1.641666,
+      1.74825
+    ],
+    "size": 64,
+    "sourceBytes": 3129,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/lineargradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.99365234375,
+    "pixelsOver16Percent": 1.4892578125,
+    "withinReviewThreshold": false,
+    "diff": "diff/lineargradient1-64-lanczos.png"
+  },
+  {
+    "asset": "lineargradient1",
+    "engine": "sdwebimage",
+    "file": "ours/lineargradient1-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      2.00375,
+      2.112667,
+      2.004958
+    ],
+    "size": 256,
+    "sourceBytes": 3129,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/lineargradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.5169677734375,
+    "pixelsOver16Percent": 0.6805419921875,
+    "withinReviewThreshold": true,
+    "diff": "diff/lineargradient1-256-native.png"
+  },
+  {
+    "asset": "lineargradient1",
+    "engine": "sdwebimage",
+    "file": "ours/lineargradient1-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      5.156833,
+      5.028417,
+      4.9365
+    ],
+    "size": 256,
+    "sourceBytes": 3129,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/lineargradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.4715627034505208,
+    "pixelsOver16Percent": 0.62255859375,
+    "withinReviewThreshold": true,
+    "diff": "diff/lineargradient1-256-lanczos.png"
+  },
+  {
+    "asset": "lineargradient1",
+    "engine": "sdwebimage",
+    "file": "ours/lineargradient1-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      23.23075,
+      23.561333,
+      24.154417
+    ],
+    "size": 1024,
+    "sourceBytes": 3129,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/lineargradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.1853367487589518,
+    "pixelsOver16Percent": 0.19044876098632812,
+    "withinReviewThreshold": true,
+    "diff": "diff/lineargradient1-1024-native.png"
+  },
+  {
+    "asset": "lineargradient1",
+    "engine": "sdwebimage",
+    "file": "ours/lineargradient1-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      54.866542,
+      55.640541,
+      52.127167
+    ],
+    "size": 1024,
+    "sourceBytes": 3129,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/lineargradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.1858514149983724,
+    "pixelsOver16Percent": 0.19931793212890625,
+    "withinReviewThreshold": true,
+    "diff": "diff/lineargradient1-1024-lanczos.png"
+  },
+  {
+    "asset": "masking-path-04-b",
+    "engine": "sdwebimage",
+    "file": "ours/masking-path-04-b-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      0.808,
+      0.66275,
+      0.66875
+    ],
+    "size": 64,
+    "sourceBytes": 4787,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/masking-path-04-b-64.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    },
+    "meanAbsoluteError255": 0.040364583333333336,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/masking-path-04-b-64-native.png"
+  },
+  {
+    "asset": "masking-path-04-b",
+    "engine": "sdwebimage",
+    "file": "ours/masking-path-04-b-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.780334,
+      1.691291,
+      1.6075
+    ],
+    "size": 64,
+    "sourceBytes": 4787,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/masking-path-04-b-64.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    },
+    "meanAbsoluteError255": 2.9593912760416665,
+    "pixelsOver16Percent": 7.666015625,
+    "withinReviewThreshold": false,
+    "diff": "diff/masking-path-04-b-64-lanczos.png"
+  },
+  {
+    "asset": "masking-path-04-b",
+    "engine": "sdwebimage",
+    "file": "ours/masking-path-04-b-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.695042,
+      1.631459,
+      1.612542
+    ],
+    "size": 256,
+    "sourceBytes": 4787,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/masking-path-04-b-256.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    },
+    "meanAbsoluteError255": 0.013453165690104166,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/masking-path-04-b-256-native.png"
+  },
+  {
+    "asset": "masking-path-04-b",
+    "engine": "sdwebimage",
+    "file": "ours/masking-path-04-b-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      5.497583,
+      4.111833,
+      3.961333
+    ],
+    "size": 256,
+    "sourceBytes": 4787,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/masking-path-04-b-256.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    },
+    "meanAbsoluteError255": 1.9695231119791667,
+    "pixelsOver16Percent": 4.99420166015625,
+    "withinReviewThreshold": false,
+    "diff": "diff/masking-path-04-b-256-lanczos.png"
+  },
+  {
+    "asset": "masking-path-04-b",
+    "engine": "sdwebimage",
+    "file": "ours/masking-path-04-b-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      14.713042,
+      14.672666,
+      14.446875
+    ],
+    "size": 1024,
+    "sourceBytes": 4787,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/masking-path-04-b-1024.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    },
+    "meanAbsoluteError255": 0.003911336263020833,
+    "pixelsOver16Percent": 0.00400543212890625,
+    "withinReviewThreshold": true,
+    "diff": "diff/masking-path-04-b-1024-native.png"
+  },
+  {
+    "asset": "masking-path-04-b",
+    "engine": "sdwebimage",
+    "file": "ours/masking-path-04-b-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      37.779958,
+      35.542292,
+      35.418458
+    ],
+    "size": 1024,
+    "sourceBytes": 4787,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/masking-path-04-b-1024.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    },
+    "meanAbsoluteError255": 0.5702177683512369,
+    "pixelsOver16Percent": 1.3639450073242188,
+    "withinReviewThreshold": false,
+    "diff": "diff/masking-path-04-b-1024-lanczos.png"
+  },
+  {
+    "asset": "radialgradient1",
+    "engine": "sdwebimage",
+    "file": "ours/radialgradient1-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      0.544167,
+      0.513667,
+      0.663666
+    ],
+    "size": 64,
+    "sourceBytes": 3321,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/radialgradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.25048828125,
+    "pixelsOver16Percent": 3.173828125,
+    "withinReviewThreshold": false,
+    "diff": "diff/radialgradient1-64-native.png"
+  },
+  {
+    "asset": "radialgradient1",
+    "engine": "sdwebimage",
+    "file": "ours/radialgradient1-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.615,
+      1.691709,
+      3.262666
+    ],
+    "size": 64,
+    "sourceBytes": 3321,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/radialgradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.904052734375,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/radialgradient1-64-lanczos.png"
+  },
+  {
+    "asset": "radialgradient1",
+    "engine": "sdwebimage",
+    "file": "ours/radialgradient1-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.426791,
+      1.492458,
+      1.365959
+    ],
+    "size": 256,
+    "sourceBytes": 3321,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/radialgradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0170440673828125,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/radialgradient1-256-native.png"
+  },
+  {
+    "asset": "radialgradient1",
+    "engine": "sdwebimage",
+    "file": "ours/radialgradient1-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      3.429625,
+      3.344292,
+      3.285459
+    ],
+    "size": 256,
+    "sourceBytes": 3321,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/radialgradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.614593505859375,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/radialgradient1-256-lanczos.png"
+  },
+  {
+    "asset": "radialgradient1",
+    "engine": "sdwebimage",
+    "file": "ours/radialgradient1-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      13.871417,
+      13.979292,
+      13.911291
+    ],
+    "size": 1024,
+    "sourceBytes": 3321,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/radialgradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.018850326538085938,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/radialgradient1-1024-native.png"
+  },
+  {
+    "asset": "radialgradient1",
+    "engine": "sdwebimage",
+    "file": "ours/radialgradient1-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      35.041333,
+      35.333917,
+      36.541459
+    ],
+    "size": 1024,
+    "sourceBytes": 3321,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/radialgradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.49550724029541016,
+    "pixelsOver16Percent": 0.001239776611328125,
+    "withinReviewThreshold": true,
+    "diff": "diff/radialgradient1-1024-lanczos.png"
+  },
+  {
+    "asset": "tiger",
+    "engine": "sdwebimage",
+    "file": "ours/tiger-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      6.001209,
+      6.286833,
+      6.04325
+    ],
+    "size": 64,
+    "sourceBytes": 96719,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/tiger-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.7864583333333334,
+    "pixelsOver16Percent": 0.1220703125,
+    "withinReviewThreshold": true,
+    "diff": "diff/tiger-64-native.png"
+  },
+  {
+    "asset": "tiger",
+    "engine": "sdwebimage",
+    "file": "ours/tiger-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      8.467958,
+      7.679625,
+      7.464125
+    ],
+    "size": 64,
+    "sourceBytes": 96719,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/tiger-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 2.4125162760416665,
+    "pixelsOver16Percent": 6.3232421875,
+    "withinReviewThreshold": false,
+    "diff": "diff/tiger-64-lanczos.png"
+  },
+  {
+    "asset": "tiger",
+    "engine": "sdwebimage",
+    "file": "ours/tiger-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      8.711792,
+      8.841292,
+      8.700416
+    ],
+    "size": 256,
+    "sourceBytes": 96719,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/tiger-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.3674468994140625,
+    "pixelsOver16Percent": 3.7750244140625,
+    "withinReviewThreshold": false,
+    "diff": "diff/tiger-256-native.png"
+  },
+  {
+    "asset": "tiger",
+    "engine": "sdwebimage",
+    "file": "ours/tiger-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      12.489083,
+      12.47375,
+      12.383333
+    ],
+    "size": 256,
+    "sourceBytes": 96719,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/tiger-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.7892812093098958,
+    "pixelsOver16Percent": 4.852294921875,
+    "withinReviewThreshold": false,
+    "diff": "diff/tiger-256-lanczos.png"
+  },
+  {
+    "asset": "tiger",
+    "engine": "sdwebimage",
+    "file": "ours/tiger-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      33.622167,
+      33.41325,
+      33.322167
+    ],
+    "size": 1024,
+    "sourceBytes": 96719,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/tiger-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.8225990931193033,
+    "pixelsOver16Percent": 1.7791748046875,
+    "withinReviewThreshold": false,
+    "diff": "diff/tiger-1024-native.png"
+  },
+  {
+    "asset": "tiger",
+    "engine": "sdwebimage",
+    "file": "ours/tiger-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      58.713791,
+      60.157667,
+      59.907292
+    ],
+    "size": 1024,
+    "sourceBytes": 96719,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/tiger-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.7010571161905924,
+    "pixelsOver16Percent": 1.5280723571777344,
+    "withinReviewThreshold": false,
+    "diff": "diff/tiger-1024-lanczos.png"
+  },
+  {
+    "asset": "w3c",
+    "engine": "sdwebimage",
+    "file": "ours/w3c-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      0.462667,
+      0.4215,
+      0.386209
+    ],
+    "size": 64,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 4.309733072916667,
+    "pixelsOver16Percent": 11.03515625,
+    "withinReviewThreshold": false,
+    "diff": "diff/w3c-64-native.png"
+  },
+  {
+    "asset": "w3c",
+    "engine": "sdwebimage",
+    "file": "ours/w3c-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.68275,
+      1.625834,
+      1.473291
+    ],
+    "size": 64,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 2.33935546875,
+    "pixelsOver16Percent": 6.4453125,
+    "withinReviewThreshold": false,
+    "diff": "diff/w3c-64-lanczos.png"
+  },
+  {
+    "asset": "w3c",
+    "engine": "sdwebimage",
+    "file": "ours/w3c-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.537375,
+      1.638791,
+      1.54425
+    ],
+    "size": 256,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.7353363037109375,
+    "pixelsOver16Percent": 2.33306884765625,
+    "withinReviewThreshold": false,
+    "diff": "diff/w3c-256-native.png"
+  },
+  {
+    "asset": "w3c",
+    "engine": "sdwebimage",
+    "file": "ours/w3c-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      3.427792,
+      3.601417,
+      3.386708
+    ],
+    "size": 256,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.7992706298828125,
+    "pixelsOver16Percent": 1.98211669921875,
+    "withinReviewThreshold": false,
+    "diff": "diff/w3c-256-lanczos.png"
+  },
+  {
+    "asset": "w3c",
+    "engine": "sdwebimage",
+    "file": "ours/w3c-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      15.911834,
+      15.830041,
+      15.6935
+    ],
+    "size": 1024,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.3404045104980469,
+    "pixelsOver16Percent": 0.7205963134765625,
+    "withinReviewThreshold": true,
+    "diff": "diff/w3c-1024-native.png"
+  },
+  {
+    "asset": "w3c",
+    "engine": "sdwebimage",
+    "file": "ours/w3c-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      44.702417,
+      44.621625,
+      44.622917
+    ],
+    "size": 1024,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.22384103139241537,
+    "pixelsOver16Percent": 0.4599571228027344,
+    "withinReviewThreshold": true,
+    "diff": "diff/w3c-1024-lanczos.png"
+  },
+  {
+    "asset": "wikimedia",
+    "engine": "sdwebimage",
+    "file": "ours/wikimedia-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      0.472292,
+      0.602583,
+      0.50175
+    ],
+    "size": 64,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.10693359375,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-64-native.png"
+  },
+  {
+    "asset": "wikimedia",
+    "engine": "sdwebimage",
+    "file": "ours/wikimedia-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.921458,
+      1.698708,
+      1.757334
+    ],
+    "size": 64,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.325439453125,
+    "pixelsOver16Percent": 0.1708984375,
+    "withinReviewThreshold": false,
+    "diff": "diff/wikimedia-64-lanczos.png"
+  },
+  {
+    "asset": "wikimedia",
+    "engine": "sdwebimage",
+    "file": "ours/wikimedia-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      1.556291,
+      1.560792,
+      1.505625
+    ],
+    "size": 256,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.086212158203125,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-256-native.png"
+  },
+  {
+    "asset": "wikimedia",
+    "engine": "sdwebimage",
+    "file": "ours/wikimedia-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      4.557166,
+      6.388042,
+      4.426333
+    ],
+    "size": 256,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.5164947509765625,
+    "pixelsOver16Percent": 0.02288818359375,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-256-lanczos.png"
+  },
+  {
+    "asset": "wikimedia",
+    "engine": "sdwebimage",
+    "file": "ours/wikimedia-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      16.3225,
+      15.8685,
+      16.071666
+    ],
+    "size": 1024,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.08188947041829427,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-1024-native.png"
+  },
+  {
+    "asset": "wikimedia",
+    "engine": "sdwebimage",
+    "file": "ours/wikimedia-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0,
+    "parsingIncludedInRender": true,
+    "renderMilliseconds": [
+      48.87175,
+      46.858417,
+      47.730041
+    ],
+    "size": 1024,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.31352074940999347,
+    "pixelsOver16Percent": 0.01087188720703125,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-1024-lanczos.png"
+  }
+]

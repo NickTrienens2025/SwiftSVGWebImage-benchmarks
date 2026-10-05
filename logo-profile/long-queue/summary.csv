@@ -1,0 +1,4 @@
+Run,Jobs,Elapsed ms,Jobs/sec,Max active,Max waiting,Baseline MiB,Peak RSS MiB,End RSS MiB,After clear MiB,Encoded cache MiB
+1,60,504.76,118.9,2,58,16.67,124.86,69.16,59.56,2.89
+2,60,397.85,150.8,2,58,16.61,121.05,78.17,57.58,2.89
+3,60,380.36,157.7,2,58,16.55,106.61,78.88,58.28,2.89

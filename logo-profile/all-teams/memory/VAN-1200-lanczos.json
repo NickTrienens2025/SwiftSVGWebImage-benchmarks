@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 57589760,
+  "asset" : "VAN",
+  "baselinePeakRSSBytes" : 17252352,
+  "baselineRSSBytes" : 17252352,
+  "date" : "2026-09-26T19:55:46Z",
+  "decodedBitmapBytes" : 4320000,
+  "decodedHeight" : 900,
+  "decodedWidth" : 1200,
+  "encodedCacheBytes" : 257993,
+  "encodedPNGBytes" : 250973,
+  "encodedSourceBytes" : 7020,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 70238208,
+  "peakRSSBytes" : 87490560,
+  "points" : 1200,
+  "residentDeltaBytes" : 40337408,
+  "scale" : 1,
+  "svgIntermediateRGBABytes" : 17280000,
+  "targetHeight" : 900,
+  "targetWidth" : 1200
+}

@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 57950208,
+  "asset" : "TOR",
+  "baselinePeakRSSBytes" : 17285120,
+  "baselineRSSBytes" : 17285120,
+  "date" : "2026-09-26T19:55:43Z",
+  "decodedBitmapBytes" : 4320000,
+  "decodedHeight" : 900,
+  "decodedWidth" : 1200,
+  "encodedCacheBytes" : 193039,
+  "encodedPNGBytes" : 172893,
+  "encodedSourceBytes" : 20146,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 71270400,
+  "peakRSSBytes" : 88555520,
+  "points" : 1200,
+  "residentDeltaBytes" : 40665088,
+  "scale" : 1,
+  "svgIntermediateRGBABytes" : 17280000,
+  "targetHeight" : 900,
+  "targetWidth" : 1200
+}

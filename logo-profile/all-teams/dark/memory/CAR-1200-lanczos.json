@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 52854784,
+  "asset" : "CAR",
+  "baselinePeakRSSBytes" : 17285120,
+  "baselineRSSBytes" : 17285120,
+  "date" : "2026-09-26T19:58:31Z",
+  "decodedBitmapBytes" : 4320000,
+  "decodedHeight" : 900,
+  "decodedWidth" : 1200,
+  "encodedCacheBytes" : 172640,
+  "encodedPNGBytes" : 169764,
+  "encodedSourceBytes" : 2876,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 66420736,
+  "peakRSSBytes" : 83705856,
+  "points" : 1200,
+  "residentDeltaBytes" : 35569664,
+  "scale" : 1,
+  "svgIntermediateRGBABytes" : 17280000,
+  "targetHeight" : 900,
+  "targetWidth" : 1200
+}

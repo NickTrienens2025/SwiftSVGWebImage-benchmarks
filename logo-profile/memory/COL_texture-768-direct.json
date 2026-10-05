@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 19218432,
+  "asset" : "COL_texture",
+  "baselinePeakRSSBytes" : 17121280,
+  "baselineRSSBytes" : 17121280,
+  "date" : "2026-09-26T19:36:49Z",
+  "decodedBitmapBytes" : 36864,
+  "decodedHeight" : 96,
+  "decodedWidth" : 96,
+  "encodedCacheBytes" : 790,
+  "encodedPNGBytes" : 0,
+  "encodedSourceBytes" : 790,
+  "lanczos" : false,
+  "peakIncreaseBytes" : 2129920,
+  "peakRSSBytes" : 19251200,
+  "points" : 768,
+  "residentDeltaBytes" : 2097152,
+  "scale" : 2,
+  "svgIntermediateRGBABytes" : 0,
+  "targetHeight" : 1536,
+  "targetWidth" : 1536
+}

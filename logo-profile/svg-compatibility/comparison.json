@@ -1,0 +1,1022 @@
+[
+  {
+    "asset": "alphachannel",
+    "file": "ours/alphachannel-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 3.272208,
+    "renderMilliseconds": [
+      0.314292,
+      0.294708,
+      0.258458
+    ],
+    "size": 64,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/alphachannel-64-native.png"
+  },
+  {
+    "asset": "alphachannel",
+    "file": "ours/alphachannel-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.118708,
+    "renderMilliseconds": [
+      2.70225,
+      1.542875,
+      1.406917
+    ],
+    "size": 64,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.580078125,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/alphachannel-64-lanczos.png"
+  },
+  {
+    "asset": "alphachannel",
+    "file": "ours/alphachannel-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.143125,
+    "renderMilliseconds": [
+      2.40575,
+      2.210958,
+      2.131209
+    ],
+    "size": 256,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/alphachannel-256-native.png"
+  },
+  {
+    "asset": "alphachannel",
+    "file": "ours/alphachannel-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.125166,
+    "renderMilliseconds": [
+      8.427,
+      7.744875,
+      7.919
+    ],
+    "size": 256,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.15016682942708334,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/alphachannel-256-lanczos.png"
+  },
+  {
+    "asset": "alphachannel",
+    "file": "ours/alphachannel-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.167834,
+    "renderMilliseconds": [
+      30.115167,
+      29.886791,
+      30.235333
+    ],
+    "size": 1024,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/alphachannel-1024-native.png"
+  },
+  {
+    "asset": "alphachannel",
+    "file": "ours/alphachannel-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.141,
+    "renderMilliseconds": [
+      96.818583,
+      96.917625,
+      96.522792
+    ],
+    "size": 1024,
+    "sourceBytes": 263,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/alphachannel-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.03742408752441406,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/alphachannel-1024-lanczos.png"
+  },
+  {
+    "asset": "clippath",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 64,
+    "sourceBytes": 2398,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/clippath-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "clippath",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 64,
+    "sourceBytes": 2398,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/clippath-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "clippath",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 256,
+    "sourceBytes": 2398,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/clippath-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "clippath",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 256,
+    "sourceBytes": 2398,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/clippath-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "clippath",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 1024,
+    "sourceBytes": 2398,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/clippath-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "clippath",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 1024,
+    "sourceBytes": 2398,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/clippath-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "gaussian1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 64,
+    "sourceBytes": 11098,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/gaussian1-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "gaussian1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 64,
+    "sourceBytes": 11098,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/gaussian1-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "gaussian1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 256,
+    "sourceBytes": 11098,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/gaussian1-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "gaussian1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 256,
+    "sourceBytes": 11098,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/gaussian1-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "gaussian1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 1024,
+    "sourceBytes": 11098,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/gaussian1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "gaussian1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 1024,
+    "sourceBytes": 11098,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/gaussian1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "github",
+    "file": "ours/github-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.2555,
+    "renderMilliseconds": [
+      0.225208,
+      0.188041,
+      0.170709
+    ],
+    "size": 64,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-64-native.png"
+  },
+  {
+    "asset": "github",
+    "file": "ours/github-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.203417,
+    "renderMilliseconds": [
+      1.009417,
+      1.050416,
+      0.7125
+    ],
+    "size": 64,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.98046875,
+    "pixelsOver16Percent": 0.2197265625,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-64-lanczos.png"
+  },
+  {
+    "asset": "github",
+    "file": "ours/github-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.254041,
+    "renderMilliseconds": [
+      1.001667,
+      0.970416,
+      0.953083
+    ],
+    "size": 256,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-256-native.png"
+  },
+  {
+    "asset": "github",
+    "file": "ours/github-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.257084,
+    "renderMilliseconds": [
+      2.293542,
+      2.258709,
+      2.279834
+    ],
+    "size": 256,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.259613037109375,
+    "pixelsOver16Percent": 0.01678466796875,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-256-lanczos.png"
+  },
+  {
+    "asset": "github",
+    "file": "ours/github-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.292208,
+    "renderMilliseconds": [
+      10.747708,
+      10.734459,
+      10.487666
+    ],
+    "size": 1024,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.811981201171875e-05,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-1024-native.png"
+  },
+  {
+    "asset": "github",
+    "file": "ours/github-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.261875,
+    "renderMilliseconds": [
+      21.665416,
+      24.040167,
+      21.984292
+    ],
+    "size": 1024,
+    "sourceBytes": 822,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/github-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.06700706481933594,
+    "pixelsOver16Percent": 0.00972747802734375,
+    "withinReviewThreshold": true,
+    "diff": "diff/github-1024-lanczos.png"
+  },
+  {
+    "asset": "lineargradient1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 64,
+    "sourceBytes": 3129,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/lineargradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "lineargradient1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 64,
+    "sourceBytes": 3129,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/lineargradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "lineargradient1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 256,
+    "sourceBytes": 3129,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/lineargradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "lineargradient1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 256,
+    "sourceBytes": 3129,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/lineargradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "lineargradient1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": false,
+    "size": 1024,
+    "sourceBytes": 3129,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/lineargradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "lineargradient1",
+    "error": "unsupportedSVG(\"Attribute: sodipodi:docname\")",
+    "lanczos": true,
+    "size": 1024,
+    "sourceBytes": 3129,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/lineargradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "masking-path-04-b",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": false,
+    "size": 64,
+    "sourceBytes": 4787,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/masking-path-04-b-64.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    }
+  },
+  {
+    "asset": "masking-path-04-b",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": true,
+    "size": 64,
+    "sourceBytes": 4787,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/masking-path-04-b-64.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    }
+  },
+  {
+    "asset": "masking-path-04-b",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": false,
+    "size": 256,
+    "sourceBytes": 4787,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/masking-path-04-b-256.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    }
+  },
+  {
+    "asset": "masking-path-04-b",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": true,
+    "size": 256,
+    "sourceBytes": 4787,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/masking-path-04-b-256.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    }
+  },
+  {
+    "asset": "masking-path-04-b",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": false,
+    "size": 1024,
+    "sourceBytes": 4787,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/masking-path-04-b-1024.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    }
+  },
+  {
+    "asset": "masking-path-04-b",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": true,
+    "size": 1024,
+    "sourceBytes": 4787,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/masking-path-04-b-1024.png",
+      "exit": 0,
+      "stderr": "CoreSVG has logged an error. Set environment variable \"CORESVG_VERBOSE\" to learn more.\n"
+    }
+  },
+  {
+    "asset": "radialgradient1",
+    "error": "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos": false,
+    "size": 64,
+    "sourceBytes": 3321,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/radialgradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "radialgradient1",
+    "error": "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos": true,
+    "size": 64,
+    "sourceBytes": 3321,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/radialgradient1-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "radialgradient1",
+    "error": "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos": false,
+    "size": 256,
+    "sourceBytes": 3321,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/radialgradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "radialgradient1",
+    "error": "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos": true,
+    "size": 256,
+    "sourceBytes": 3321,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/radialgradient1-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "radialgradient1",
+    "error": "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos": false,
+    "size": 1024,
+    "sourceBytes": 3321,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/radialgradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "radialgradient1",
+    "error": "unsupportedSVG(\"Attribute: inkscape:version\")",
+    "lanczos": true,
+    "size": 1024,
+    "sourceBytes": 3321,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/radialgradient1-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "tiger",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": false,
+    "size": 64,
+    "sourceBytes": 96719,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/tiger-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "tiger",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": true,
+    "size": 64,
+    "sourceBytes": 96719,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/tiger-64.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "tiger",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": false,
+    "size": 256,
+    "sourceBytes": 96719,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/tiger-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "tiger",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": true,
+    "size": 256,
+    "sourceBytes": 96719,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/tiger-256.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "tiger",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": false,
+    "size": 1024,
+    "sourceBytes": 96719,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/tiger-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "tiger",
+    "error": "unsupportedSVG(\"DTD and entities\")",
+    "lanczos": true,
+    "size": 1024,
+    "sourceBytes": 96719,
+    "status": "rejected",
+    "reference": {
+      "file": "reference/tiger-1024.png",
+      "exit": 0,
+      "stderr": ""
+    }
+  },
+  {
+    "asset": "w3c",
+    "file": "ours/w3c-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.132375,
+    "renderMilliseconds": [
+      0.231667,
+      0.317834,
+      0.23125
+    ],
+    "size": 64,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/w3c-64-native.png"
+  },
+  {
+    "asset": "w3c",
+    "file": "ours/w3c-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.131083,
+    "renderMilliseconds": [
+      1.110708,
+      1.125791,
+      1.06175
+    ],
+    "size": 64,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.1029459635416667,
+    "pixelsOver16Percent": 0.439453125,
+    "withinReviewThreshold": false,
+    "diff": "diff/w3c-64-lanczos.png"
+  },
+  {
+    "asset": "w3c",
+    "file": "ours/w3c-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.160917,
+    "renderMilliseconds": [
+      1.019833,
+      1.020875,
+      1.066958
+    ],
+    "size": 256,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/w3c-256-native.png"
+  },
+  {
+    "asset": "w3c",
+    "file": "ours/w3c-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.164791,
+    "renderMilliseconds": [
+      2.321292,
+      2.130458,
+      2.315458
+    ],
+    "size": 256,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.2951100667317708,
+    "pixelsOver16Percent": 0.0396728515625,
+    "withinReviewThreshold": true,
+    "diff": "diff/w3c-256-lanczos.png"
+  },
+  {
+    "asset": "w3c",
+    "file": "ours/w3c-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.154084,
+    "renderMilliseconds": [
+      10.179416,
+      10.523084,
+      10.255625
+    ],
+    "size": 1024,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.0,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/w3c-1024-native.png"
+  },
+  {
+    "asset": "w3c",
+    "file": "ours/w3c-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.184375,
+    "renderMilliseconds": [
+      21.0595,
+      21.758708,
+      22.355709
+    ],
+    "size": 1024,
+    "sourceBytes": 351,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/w3c-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.07626088460286458,
+    "pixelsOver16Percent": 0.007534027099609375,
+    "withinReviewThreshold": true,
+    "diff": "diff/w3c-1024-lanczos.png"
+  },
+  {
+    "asset": "wikimedia",
+    "file": "ours/wikimedia-64-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.186166,
+    "renderMilliseconds": [
+      0.252542,
+      0.2455,
+      0.202
+    ],
+    "size": 64,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.14990234375,
+    "pixelsOver16Percent": 0.0,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-64-native.png"
+  },
+  {
+    "asset": "wikimedia",
+    "file": "ours/wikimedia-64-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.10075,
+    "renderMilliseconds": [
+      0.81925,
+      0.743541,
+      0.6365
+    ],
+    "size": 64,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-64.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 1.2201334635416667,
+    "pixelsOver16Percent": 0.146484375,
+    "withinReviewThreshold": false,
+    "diff": "diff/wikimedia-64-lanczos.png"
+  },
+  {
+    "asset": "wikimedia",
+    "file": "ours/wikimedia-256-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.134,
+    "renderMilliseconds": [
+      0.946542,
+      0.927333,
+      0.863916
+    ],
+    "size": 256,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.051808675130208336,
+    "pixelsOver16Percent": 0.00457763671875,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-256-native.png"
+  },
+  {
+    "asset": "wikimedia",
+    "file": "ours/wikimedia-256-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.11,
+    "renderMilliseconds": [
+      3.711791,
+      2.6245,
+      2.495667
+    ],
+    "size": 256,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-256.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.439605712890625,
+    "pixelsOver16Percent": 0.030517578125,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-256-lanczos.png"
+  },
+  {
+    "asset": "wikimedia",
+    "file": "ours/wikimedia-1024-native.png",
+    "lanczos": false,
+    "parseMilliseconds": 0.166041,
+    "renderMilliseconds": [
+      10.75375,
+      11.203958,
+      10.788041
+    ],
+    "size": 1024,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.03795337677001953,
+    "pixelsOver16Percent": 0.11911392211914062,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-1024-native.png"
+  },
+  {
+    "asset": "wikimedia",
+    "file": "ours/wikimedia-1024-lanczos.png",
+    "lanczos": true,
+    "parseMilliseconds": 0.173834,
+    "renderMilliseconds": [
+      25.038208,
+      24.132,
+      27.894541
+    ],
+    "size": 1024,
+    "sourceBytes": 273,
+    "status": "rendered",
+    "reference": {
+      "file": "reference/wikimedia-1024.png",
+      "exit": 0,
+      "stderr": ""
+    },
+    "meanAbsoluteError255": 0.25287310282389325,
+    "pixelsOver16Percent": 0.12493133544921875,
+    "withinReviewThreshold": true,
+    "diff": "diff/wikimedia-1024-lanczos.png"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "afterRenderRSSBytes" : 28950528,
+  "asset" : "VGK_light",
+  "baselinePeakRSSBytes" : 17154048,
+  "baselineRSSBytes" : 17154048,
+  "date" : "2026-09-26T19:36:36Z",
+  "decodedBitmapBytes" : 98304,
+  "decodedHeight" : 128,
+  "decodedWidth" : 192,
+  "encodedCacheBytes" : 14569,
+  "encodedPNGBytes" : 12375,
+  "encodedSourceBytes" : 2194,
+  "lanczos" : true,
+  "peakIncreaseBytes" : 12206080,
+  "peakRSSBytes" : 29360128,
+  "points" : 64,
+  "residentDeltaBytes" : 11796480,
+  "scale" : 3,
+  "svgIntermediateRGBABytes" : 393216,
+  "targetHeight" : 128,
+  "targetWidth" : 192
+}

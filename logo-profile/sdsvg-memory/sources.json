@@ -1,0 +1,62 @@
+[
+  {
+    "name": "w3c",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/w3c.svg",
+    "origin": "SDWebImageSVGCoder demo",
+    "sha256": "733bd2700bd9c9bf0f4da6c4bc8106b65da9a734d759ac9f38c12a3000c34386"
+  },
+  {
+    "name": "wikimedia",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/wikimedia.svg",
+    "origin": "SDWebImageSVGCoder demo",
+    "sha256": "08540fec71d4fb8fc18c1607186dd4925d6f3b01547047c8124592b6d39ff125"
+  },
+  {
+    "name": "tiger",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/tiger.svg",
+    "origin": "Additional SVGWeb sample (not upstream test)",
+    "sha256": "e14dab6b4811a6a12abf9aefe69b5e4d5e8af43f9e1cc2dc22416eebf87ed0c7"
+  },
+  {
+    "name": "lineargradient1",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/lineargradient1.svg",
+    "origin": "Additional SVGWeb sample (not upstream test)",
+    "sha256": "759375607f7c9f50783ca570fa4505ef3a812cd650ad278f832a06b58d71be4c"
+  },
+  {
+    "name": "radialgradient1",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/radialgradient1.svg",
+    "origin": "Additional SVGWeb sample (not upstream test)",
+    "sha256": "fee0748155f0fc67217ad83fc631021dc9510ea3f60f1218e1005fb1be8ddb24"
+  },
+  {
+    "name": "clippath",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/clippath.svg",
+    "origin": "Additional SVGWeb sample (not upstream test)",
+    "sha256": "67d1c392cfb54f80356f90cc37ee8daa6056e8cb5d72cb2486f1d5339681ff25"
+  },
+  {
+    "name": "masking-path-04-b",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/masking-path-04-b.svg",
+    "origin": "Additional SVGWeb sample (not upstream test)",
+    "sha256": "cbc79d87c656da74497bb2169c23c9b2fe7ba7d16c595d232f63b92d78058b3c"
+  },
+  {
+    "name": "gaussian1",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/gaussian1.svg",
+    "origin": "Additional SVGWeb sample (not upstream test)",
+    "sha256": "b42317c5ef25185d178126be853f02660b5300feab1bbcd1ae5a9e1d1e661395"
+  },
+  {
+    "name": "alphachannel",
+    "url": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/alphachannel.svg",
+    "origin": "Additional SVGWeb sample (not upstream test)",
+    "sha256": "c4a92f8cd118d53f42aba99bd85b354b10d48d98e33712efa080813c88f07496"
+  },
+  {
+    "name": "github",
+    "url": "https://simpleicons.org/icons/github.svg",
+    "origin": "SDWebImageSVGCoder demo",
+    "sha256": "3bf8cceead820aec50d4ee825a3fd02c5a1cd6665cc9cf4cbf3d9c8861a204bb"
+  }
+]
